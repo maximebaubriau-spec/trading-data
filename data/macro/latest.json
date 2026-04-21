@@ -1,0 +1,242 @@
+{
+  "timestamp": "2026-04-21T21:20:39.767216",
+  "profile": "AGGRESSIVE",
+  "overall_bias": "RISK_OFF",
+  "geo_risk_level": "MEDIUM",
+  "geo_themes": [],
+  "regime_macro": "EXPANSION",
+  "posture_fed": "NEUTRE",
+  "regime_risque": "RISK_OFF",
+  "rotations": [
+    "rotation vers énergie (USO +5.71%, XLE +1.45%)",
+    "fuite des métaux précieux (-2.83% à -6.19%)",
+    "faiblesse de l'aéronautique défense (ITA -3.78%)"
+  ],
+  "theses_actives": [
+    {
+      "title": "Crypto surperformance en contexte de peur paradoxale",
+      "trigger": "Régime Fear 33 + escalade géopolitique Iran",
+      "actif": "BTC",
+      "direction": "LONG",
+      "raisonnement": "Environnement RISK_OFF avec fuite des commodités (GDX -6.19%, COPX liquidations) mais BTC stable (-0.38%). Thèse de refuge crypto vs fuite monnaies fiduciaires maintenue dans contexte d'escalade géopolitique. Peur élevée historiquement favorable aux actifs non-corrélés.",
+      "conviction": "MEDIUM",
+      "horizon": "MOYEN (1-3mois)",
+      "statut": "CONFIRMÉE",
+      "date_ouverture": "TBD"
+    },
+    {
+      "title": "Actions croissance US : soutien expansion + Fed neutre",
+      "trigger": "Fed neutre, économie en expansion, courbe normale",
+      "actif": "QQQ",
+      "direction": "LONG",
+      "raisonnement": "Posture Fed stable (3.64%), expansion modérée confirmée, M2 croissant, courbe normale (+0.54%). Implications macro BULLISH sur actions croissance. Momentum faible sur QQQ marginalement, mais fondamentaux macroéconomiques soutiennent.",
+      "conviction": "MEDIUM",
+      "horizon": "MOYEN (1-3mois)",
+      "statut": "CONFIRMÉE",
+      "date_ouverture": "TBD"
+    },
+    {
+      "title": "Récession obligataire : vulnérabilité taus longs vs inflation pétrolière",
+      "trigger": "Escalade Iran → choc pétrolier +30-50% potentiel → inflation accélération",
+      "actif": "TLT",
+      "direction": "SHORT",
+      "raisonnement": "Inflation CPI déjà à +2.83%, tensions géopolitiques Iran amplifieront pressions inflationnistes via pétrole (CL/BZ bullish). TLT vulnérable sur rendements longs. Choc pétrolier incompatible avec valorisation obligataire actuelle.",
+      "conviction": "MEDIUM",
+      "horizon": "COURT (1-2sem)",
+      "statut": "CONFIRMÉE",
+      "date_ouverture": "TBD"
+    },
+    {
+      "title": "Réarmement Asie-Pacifique : tailwind défense structurel",
+      "trigger": "Escalade géopolitique Iran + tensions structurelles Asie",
+      "actif": "ITA",
+      "direction": "LONG",
+      "raisonnement": "Analyse géo classifie ITA BULLISH sur escalade Iran/US/Israël. Cependant momentum FAIBLE (-3.78% récent), signalant décalage avec fondamentaux. Court terme correction, mais tailwind défense structurel demeure intact moyen-long terme.",
+      "conviction": "MEDIUM",
+      "horizon": "MOYEN (1-3mois)",
+      "statut": "CONFIRMÉE",
+      "date_ouverture": "TBD"
+    },
+    {
+      "title": "Stabilité managériale tech : support narratif contre volatilité macro",
+      "trigger": "Expansion US + Fed neutre maintiennent fondamentaux tech",
+      "actif": "AAPL",
+      "direction": "LONG",
+      "raisonnement": "Conviction LOW historique, thèse défensive sur narratif management. Macro expansion + Fed neutre soutiennent, mais volatilité géopolitique (Fear 33) crée pression court-terme. Maintenir conviction LOW jusqu'à normalisation risque.",
+      "conviction": "LOW",
+      "horizon": "MOYEN (1-3mois)",
+      "statut": "CONFIRMÉE",
+      "date_ouverture": "TBD"
+    },
+    {
+      "title": "Réduction coûts compliance ESG : marges retail vs pressures réglementaires",
+      "trigger": "Stabilité macro, expansion US",
+      "actif": "TGT",
+      "direction": "LONG",
+      "raisonnement": "Thèse conviction LOW sur marges retail. Macro expansion soutient demande consommateur, mais volatilité géopolitique et régime RISK_OFF créent headwinds court-terme. Thèse reste valide moyen-terme.",
+      "conviction": "LOW",
+      "horizon": "MOYEN (1-3mois)",
+      "statut": "CONFIRMÉE",
+      "date_ouverture": "TBD"
+    },
+    {
+      "title": "Or refuge délaissé : fuite vers pétrole géopolitique",
+      "trigger": "Escalade Iran-US → pétrole refuge préféré vs or; liquidations massives GDX/métaux",
+      "actif": "GLD",
+      "direction": "SHORT",
+      "raisonnement": "Momentum FAIBLE (-6.19% GDX, -2.83% GLD minimal). Paradoxe : OR classé BULLISH en analyse macro sur tensions, mais momentum et flux réels confirment fuite vers PÉTROLE (USO +5.71%, XLE +1.45%). Choc géopolitique favorise énergie > métaux précieux. Thèse validation empirique.",
+      "conviction": "MEDIUM",
+      "horizon": "COURT (1-2sem)",
+      "statut": "CONFIRMÉE",
+      "date_ouverture": "2026-04-21"
+    },
+    {
+      "title": "Small caps vulnérabilité géopolitique : rotation vers large cap défense",
+      "trigger": "Régime RISK_OFF + escalade Iran + peur 33 → flight to quality",
+      "actif": "IWM",
+      "direction": "SHORT",
+      "raisonnement": "Small caps IWM vulnérables en environnement RISK_OFF (Fear 33). Fuite institutionnelle confirmée (volumes massifs GDX/COPX). Rotation défensive vers large cap soutenu par défense (ITA, XLV) plus probable que maintien small caps. Thèse validée par rotations observées.",
+      "conviction": "MEDIUM",
+      "horizon": "COURT (1-2sem)",
+      "statut": "CONFIRMÉE",
+      "date_ouverture": "2026-04-21"
+    },
+    {
+      "title": "Choc pétrolier géopolitique Iran : accélération inflation & stagflation risk",
+      "trigger": "Escalade Iran-US → fermeture Détroit d'Ormuz → CL/BZ +30-50%",
+      "actif": "CL",
+      "direction": "LONG",
+      "raisonnement": "Analyse géo indique choc pétrolier majeur potentiel (Détroit d'Ormuz), CL classé BULLISH. Momentum confirmé (USO +5.71%). Catalyseur court-terme majeur avec inflation CPI déjà à +2.83%. Horizon COURT critique pour arbitrage stagflation.",
+      "conviction": "HIGH",
+      "horizon": "COURT (1-2sem)",
+      "statut": "NOUVELLE",
+      "date_ouverture": "2026-04-21"
+    },
+    {
+      "title": "Secteur défense US : momentum positif sur tensions géopolitiques",
+      "trigger": "Escalade Iran + budgets défense structurels",
+      "actif": "XLV",
+      "direction": "LONG",
+      "raisonnement": "Analyse géo confirme XLV BULLISH sur escalade Iran/US/Israël. Défense sectoriel bénéficie de tensions structurelles. Momentum fort (SMH parmi forts), défense US traditionnel en phase initiale de rotation.",
+      "conviction": "MEDIUM",
+      "horizon": "MOYEN (1-3mois)",
+      "statut": "NOUVELLE",
+      "date_ouverture": "2026-04-21"
+    },
+    {
+      "title": "Dollar weakness vs matières premières : tailwind structurel",
+      "trigger": "Baisse dollar signalée en macro → favorise commodités",
+      "actif": "USO",
+      "direction": "LONG",
+      "raisonnement": "Macro note baisse dollar favorisant matières premières. USO momentum très fort (+5.71%), confirmant rotation. Combinaison choc géopolitique + dollar faible = tailwind double pour énergies. Conviction élevée court-terme.",
+      "conviction": "HIGH",
+      "horizon": "COURT (1-2sem)",
+      "statut": "NOUVELLE",
+      "date_ouverture": "2026-04-21"
+    }
+  ],
+  "recommandations": [
+    {
+      "actif": "CL",
+      "direction": "LONG",
+      "sizing_pct": 15,
+      "stop_loss_pct": -4,
+      "take_profit_pct": 8,
+      "horizon": "COURT (1-2 sem)",
+      "conviction": "HIGH",
+      "justification": "Choc géopolitique Iran (Détroit d'Ormuz) catalyseur majeur court-terme, momentum USO +5.71% confirme rotation énergies, CPI +2.83% amplifie convexité inflationniste.",
+      "points_attention": "Escalade Iran-US volatile : désescalade rapide nécessiterait sortie immédiate sous -4%, surexposition revers secteur énergie risquée en RISK_OFF.",
+      "disponible_tr": false
+    },
+    {
+      "actif": "USO",
+      "direction": "LONG",
+      "sizing_pct": 15,
+      "stop_loss_pct": -4,
+      "take_profit_pct": 8,
+      "horizon": "COURT (1-2 sem)",
+      "conviction": "HIGH",
+      "justification": "Double tailwind : dollar faible structurel + choc pétrolier géopolitique (Ormuz), momentum +5.71% confirme flux, corrélation négative USD/commodités jouable court-terme.",
+      "points_attention": "Dépendance forte à escalade Iran persistante : pic de volatilité rapide possible suivi contraction liquidités si risk-off intensifie.",
+      "disponible_tr": true,
+      "isin": "IE00BM67HM91",
+      "nom_complet": "Xtrackers MSCI World Energy UCITS ETF",
+      "ticker_tr": "XEGU",
+      "ticker_yahoo_tr": "XEGU.L"
+    },
+    {
+      "actif": "BTC",
+      "direction": "LONG",
+      "sizing_pct": 8,
+      "stop_loss_pct": -6,
+      "take_profit_pct": 15,
+      "horizon": "MOYEN (1-3 mois)",
+      "conviction": "MEDIUM",
+      "justification": "Stabilité BTC (-0.38%) vs fuite commodités (GDX -6.19%) dans régime Fear 33 indique refuge asymétrique, escalade géopolitique historiquement favorise non-corrélés fiduciaires.",
+      "points_attention": "Corrélation crypto-équities peut se nouer rapidement en RISK_OFF intensifié, thèse fragile si liquidations s'accélèrent.",
+      "disponible_tr": false
+    },
+    {
+      "actif": "QQQ",
+      "direction": "LONG",
+      "sizing_pct": 8,
+      "stop_loss_pct": -6,
+      "take_profit_pct": 15,
+      "horizon": "MOYEN (1-3 mois)",
+      "conviction": "MEDIUM",
+      "justification": "Fondamentaux macro soutenus (Fed neutre 3.64%, expansion, courbe normale +0.54%, M2 croissant) offrent plancher moyen-terme malgré momentum QQQ faible actuellement.",
+      "points_attention": "Régime RISK_OFF actuel pénalise croissance : choc pétrolier inflation risque revalorisation obligataire vs actions si Fed réagit, correction court-terme probable avant rebond.",
+      "disponible_tr": true,
+      "isin": "IE0032077012",
+      "nom_complet": "Invesco EQQQ Nasdaq-100 UCITS ETF",
+      "ticker_tr": "EQQQ",
+      "ticker_yahoo_tr": "EQQQ.L"
+    },
+    {
+      "actif": "TLT",
+      "direction": "SHORT",
+      "sizing_pct": 8,
+      "stop_loss_pct": -6,
+      "take_profit_pct": 8,
+      "horizon": "COURT (1-2 sem)",
+      "conviction": "MEDIUM",
+      "justification": "Inflation CPI +2.83% + choc pétrolier Iran (+30-50%) incompatible valorisation obligataire : rendements longs achetés à perte anticiée, repricing court-terme majeur.",
+      "points_attention": "Risque paradoxal RISK_OFF : fuite obligataire possible (vente TLT accentuerait repricing) OU vol à la qualité cachant rendements → position calibrée sur rebond inflation, pas crash obligataire.",
+      "disponible_tr": true,
+      "isin": "IE00B3VWN393",
+      "nom_complet": "iShares $ Treasury Bond 20+yr UCITS ETF",
+      "ticker_tr": "DTLA",
+      "ticker_yahoo_tr": "DTLA.L"
+    },
+    {
+      "actif": "ITA",
+      "direction": "LONG",
+      "sizing_pct": 8,
+      "stop_loss_pct": -6,
+      "take_profit_pct": 15,
+      "horizon": "MOYEN (1-3 mois)",
+      "conviction": "MEDIUM",
+      "justification": "Tailwind défense structurel (escalade géopolitique Iran + Asie-Pacifique) demeure intact moyen-terme malgré momentum -3.78% signalant correction court-terme opportune.",
+      "points_attention": "Décalage fondamentaux/momentum = correction technique possible avant rebond : accumulation graduelle préférable, escalade geopolitique vraie validation milieu T2 2026.",
+      "disponible_tr": true,
+      "isin": "IE00B42Z6P97",
+      "nom_complet": "iShares STOXX Europe 600 Aerospace & Defence UCITS ETF",
+      "ticker_tr": "EXV3",
+      "ticker_yahoo_tr": "EXV3.DE"
+    }
+  ],
+  "fear_greed": {
+    "value": 33,
+    "label": "Fear",
+    "yesterday": 29
+  },
+  "btc_dominance": 57.5,
+  "geo_resume": "",
+  "macro_resume": "La Fed maintient une posture neutre avec taux stable à 3.64% tandis que l'inflation accélère (+2.83%), le chômage se contracte (4.30%) et la courbe reste normale (+0.54%). L'économie US demeure en expansion modérée, soutenue par la croissance de M2 et la baisse du dollar qui favorise les matières premières. Les tensions Iran/pétrole et débats internes à la Fed (réforme opérationnelle, nomination) créent une volatilité accrue mais sans révision majeure de trajectoire monétaire immédiate.",
+  "marches_resume": "Environnement craintif (Fear 33) marqué par une rotation défensive vers l'énergie (+5.71% USO) et une liquidation massive des mineurs métaux (-6.19% GDX, vol ×1.7). Les volumes anormaux sur COPX et GDX signalent une fuite institutionnelle des positions long-commodités, confirmant une aversion au risque malgré la stabilité crypto (BTC -0.38%) et un marché US globalement négatif.",
+  "tokens_used": {
+    "input": 6443,
+    "output": 5342
+  },
+  "cost_eur": 0.00771
+}
