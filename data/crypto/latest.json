@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-21T21:24:30.035239",
+  "timestamp": "2026-04-21T21:35:51.462704",
   "macro_bias": "RISK_OFF",
   "best_narrative": "Layer2",
   "narrative_scores": {
@@ -11,19 +11,19 @@
   },
   "signals": {
     "BTC": {
-      "close": 75627.7,
-      "rsi": 47.98,
-      "momentum_4h": 0.105,
-      "volume_ratio": 0.14,
+      "close": 75638.9,
+      "rsi": 48.14,
+      "momentum_4h": 0.119,
+      "volume_ratio": 0.2,
       "signal": "NEUTRE",
       "conviction": "LOW",
       "macro_bias": "RISK_OFF"
     },
     "ETH": {
-      "close": 2315.65,
-      "rsi": 51.43,
-      "momentum_4h": 0.464,
-      "volume_ratio": 0.57,
+      "close": 2315.3,
+      "rsi": 51.26,
+      "momentum_4h": 0.449,
+      "volume_ratio": 0.6,
       "signal": "NEUTRE",
       "conviction": "LOW",
       "macro_bias": "RISK_OFF"
@@ -38,64 +38,64 @@
       "macro_bias": "RISK_OFF"
     },
     "OP": {
-      "close": 0.1217,
-      "rsi": 42.44,
-      "momentum_4h": -0.572,
-      "volume_ratio": 0.26,
+      "close": 0.1219,
+      "rsi": 43.4,
+      "momentum_4h": -0.408,
+      "volume_ratio": 0.39,
       "signal": "NEUTRE",
       "conviction": "LOW",
       "macro_bias": "RISK_OFF"
     },
     "MATIC": {
-      "close": 0.09331,
-      "rsi": 53.8,
-      "momentum_4h": 0.0,
-      "volume_ratio": 0.08,
+      "close": 0.0934,
+      "rsi": 54.4,
+      "momentum_4h": 0.096,
+      "volume_ratio": 0.11,
       "signal": "NEUTRE",
       "conviction": "LOW",
       "macro_bias": "RISK_OFF"
     },
     "AAVE": {
-      "close": 91.13,
-      "rsi": 46.1,
-      "momentum_4h": -0.589,
-      "volume_ratio": 0.65,
+      "close": 91.17,
+      "rsi": 46.28,
+      "momentum_4h": -0.545,
+      "volume_ratio": 0.75,
       "signal": "NEUTRE",
       "conviction": "LOW",
       "macro_bias": "RISK_OFF"
     },
     "UNI": {
-      "close": 3.235,
-      "rsi": 45.82,
-      "momentum_4h": 0.155,
+      "close": 3.236,
+      "rsi": 46.06,
+      "momentum_4h": 0.186,
       "volume_ratio": 0.01,
       "signal": "NEUTRE",
       "conviction": "LOW",
       "macro_bias": "RISK_OFF"
     },
     "CRV": {
-      "close": 0.2273,
-      "rsi": 41.44,
-      "momentum_4h": -0.438,
-      "volume_ratio": 0.01,
+      "close": 0.2279,
+      "rsi": 42.77,
+      "momentum_4h": -0.175,
+      "volume_ratio": 0.29,
       "signal": "NEUTRE",
       "conviction": "LOW",
       "macro_bias": "RISK_OFF"
     },
     "ONDO": {
-      "close": 0.25536,
-      "rsi": 46.58,
-      "momentum_4h": -0.211,
+      "close": 0.25528,
+      "rsi": 46.33,
+      "momentum_4h": -0.242,
       "volume_ratio": 1.78,
       "signal": "NEUTRE",
       "conviction": "LOW",
       "macro_bias": "RISK_OFF"
     },
     "FET": {
-      "close": 0.2085,
-      "rsi": 43.97,
-      "momentum_4h": 0.192,
-      "volume_ratio": 0.12,
+      "close": 0.208,
+      "rsi": 42.78,
+      "momentum_4h": -0.048,
+      "volume_ratio": 0.13,
       "signal": "NEUTRE",
       "conviction": "LOW",
       "macro_bias": "RISK_OFF"
@@ -104,16 +104,16 @@
       "close": 1.781,
       "rsi": 48.91,
       "momentum_4h": 0.112,
-      "volume_ratio": 0.09,
+      "volume_ratio": 0.2,
       "signal": "NEUTRE",
       "conviction": "LOW",
       "macro_bias": "RISK_OFF"
     },
     "TAO": {
-      "close": 244.8465,
-      "rsi": 49.63,
-      "momentum_4h": 0.39,
-      "volume_ratio": 0.02,
+      "close": 244.2232,
+      "rsi": 47.88,
+      "momentum_4h": 0.135,
+      "volume_ratio": 0.03,
       "signal": "NEUTRE",
       "conviction": "LOW",
       "macro_bias": "RISK_OFF"
@@ -131,7 +131,7 @@
       "close": 0.0245,
       "rsi": 41.44,
       "momentum_4h": -0.285,
-      "volume_ratio": 0.56,
+      "volume_ratio": 0.62,
       "signal": "NEUTRE",
       "conviction": "LOW",
       "macro_bias": "RISK_OFF"
