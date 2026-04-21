@@ -1,0 +1,253 @@
+{
+  "updated_at": "2026-04-21T19:05:40.491982",
+  "count": 14,
+  "etfs": [
+    {
+      "isin": "IE00B4ND3602",
+      "name": "iShares Physical Gold ETC",
+      "ticker": "IGLN",
+      "ticker_yahoo": "IGLN.L",
+      "theme": "or",
+      "us_equivalents": [
+        "GLD"
+      ],
+      "ter": 0.12,
+      "currency": "USD",
+      "source": "curated"
+    },
+    {
+      "isin": "JE00B588CD74",
+      "name": "WisdomTree Physical Gold",
+      "ticker": "PHGP",
+      "ticker_yahoo": "PHGP.L",
+      "theme": "or",
+      "us_equivalents": [
+        "GLD"
+      ],
+      "ter": 0.15,
+      "currency": "USD",
+      "source": "curated"
+    },
+    {
+      "isin": "IE00B42Z6P97",
+      "name": "iShares STOXX Europe 600 Aerospace & Defence UCITS ETF",
+      "ticker": "EXV3",
+      "ticker_yahoo": "EXV3.DE",
+      "theme": "défense",
+      "us_equivalents": [
+        "ITA",
+        "RTX"
+      ],
+      "ter": 0.46,
+      "currency": "EUR",
+      "source": "curated"
+    },
+    {
+      "isin": "IE0009R26QC2",
+      "name": "Invesco Defence Innovation UCITS ETF",
+      "ticker": "DFND",
+      "ticker_yahoo": "DFND.L",
+      "theme": "défense",
+      "us_equivalents": [
+        "ITA",
+        "RTX"
+      ],
+      "ter": 0.55,
+      "currency": "USD",
+      "source": "curated"
+    },
+    {
+      "isin": "IE00BM67HM91",
+      "name": "Xtrackers MSCI World Energy UCITS ETF",
+      "ticker": "XEGU",
+      "ticker_yahoo": "XEGU.L",
+      "theme": "énergie",
+      "us_equivalents": [
+        "XLE",
+        "USO"
+      ],
+      "ter": 0.25,
+      "currency": "USD",
+      "source": "curated"
+    },
+    {
+      "isin": "IE00B5BMR087",
+      "name": "iShares Core S&P 500 UCITS ETF",
+      "ticker": "CSPX",
+      "ticker_yahoo": "CSPX.L",
+      "theme": "S&P500",
+      "us_equivalents": [
+        "SPY",
+        "IWM"
+      ],
+      "ter": 0.07,
+      "currency": "USD",
+      "source": "curated"
+    },
+    {
+      "isin": "IE00B3XXRP09",
+      "name": "Vanguard S&P 500 UCITS ETF",
+      "ticker": "VUAA",
+      "ticker_yahoo": "VUAA.L",
+      "theme": "S&P500",
+      "us_equivalents": [
+        "SPY"
+      ],
+      "ter": 0.07,
+      "currency": "USD",
+      "source": "curated"
+    },
+    {
+      "isin": "IE0032077012",
+      "name": "Invesco EQQQ Nasdaq-100 UCITS ETF",
+      "ticker": "EQQQ",
+      "ticker_yahoo": "EQQQ.L",
+      "theme": "Nasdaq",
+      "us_equivalents": [
+        "QQQ",
+        "AAPL",
+        "MSFT",
+        "NVDA"
+      ],
+      "ter": 0.3,
+      "currency": "USD",
+      "source": "curated"
+    },
+    {
+      "isin": "IE00B3NFH461",
+      "name": "iShares PHLX Semiconductor UCITS ETF",
+      "ticker": "SXRP",
+      "ticker_yahoo": "SXRP.L",
+      "theme": "semi-conducteurs",
+      "us_equivalents": [
+        "SMH",
+        "NVDA"
+      ],
+      "ter": 0.35,
+      "currency": "USD",
+      "source": "curated"
+    },
+    {
+      "isin": "IE00B58G3079",
+      "name": "iShares Diversified Commodity Swap UCITS ETF",
+      "ticker": "CMOD",
+      "ticker_yahoo": "CMOD.L",
+      "theme": "matières premières",
+      "us_equivalents": [
+        "COPX"
+      ],
+      "ter": 0.19,
+      "currency": "USD",
+      "source": "curated"
+    },
+    {
+      "isin": "IE00BQQP9F84",
+      "name": "VanEck Gold Miners UCITS ETF",
+      "ticker": "GDGB",
+      "ticker_yahoo": "GDGB.L",
+      "theme": "miners or",
+      "us_equivalents": [
+        "GDX"
+      ],
+      "ter": 0.53,
+      "currency": "USD",
+      "source": "curated"
+    },
+    {
+      "isin": "IE00B3VWN393",
+      "name": "iShares $ Treasury Bond 20+yr UCITS ETF",
+      "ticker": "DTLA",
+      "ticker_yahoo": "DTLA.L",
+      "theme": "obligations",
+      "us_equivalents": [
+        "TLT"
+      ],
+      "ter": 0.1,
+      "currency": "USD",
+      "source": "curated"
+    },
+    {
+      "isin": "JE00B4NCWF87",
+      "name": "WisdomTree Physical Silver",
+      "ticker": "PHAG",
+      "ticker_yahoo": "PHAG.DE",
+      "theme": "argent",
+      "us_equivalents": [
+        "SLV"
+      ],
+      "ter": 0.19,
+      "currency": "USD",
+      "source": "curated"
+    },
+    {
+      "isin": "IE00B8GKDB10",
+      "name": "Vanguard FTSE All-World High Dividend Yield UCITS ETF",
+      "ticker": "VHYL",
+      "ticker_yahoo": "VHYL.L",
+      "theme": "dividendes",
+      "us_equivalents": [],
+      "ter": 0.22,
+      "currency": "USD",
+      "source": "curated"
+    }
+  ],
+  "by_theme": {
+    "or": [
+      "IE00B4ND3602",
+      "JE00B588CD74"
+    ],
+    "défense": [
+      "IE00B42Z6P97",
+      "IE0009R26QC2"
+    ],
+    "énergie": [
+      "IE00BM67HM91"
+    ],
+    "S&P500": [
+      "IE00B5BMR087",
+      "IE00B3XXRP09"
+    ],
+    "Nasdaq": [
+      "IE0032077012"
+    ],
+    "semi-conducteurs": [
+      "IE00B3NFH461"
+    ],
+    "matières premières": [
+      "IE00B58G3079"
+    ],
+    "miners or": [
+      "IE00BQQP9F84"
+    ],
+    "obligations": [
+      "IE00B3VWN393"
+    ],
+    "argent": [
+      "JE00B4NCWF87"
+    ],
+    "dividendes": [
+      "IE00B8GKDB10"
+    ]
+  },
+  "us_to_etf": {
+    "GLD": "IE00B4ND3602",
+    "SLV": "JE00B4NCWF87",
+    "GDX": "IE00BQQP9F84",
+    "COPX": "IE00B58G3079",
+    "USO": "IE00BM67HM91",
+    "XLE": "IE00BM67HM91",
+    "ITA": "IE00B42Z6P97",
+    "SMH": "IE00B3NFH461",
+    "SPY": "IE00B5BMR087",
+    "QQQ": "IE0032077012",
+    "TLT": "IE00B3VWN393",
+    "IWM": "IE00B5BMR087",
+    "AAPL": "IE0032077012",
+    "NVDA": "IE00B3NFH461",
+    "RTX": "IE00B42Z6P97",
+    "MSFT": "IE0032077012",
+    "META": "IE0032077012",
+    "GOOGL": "IE0032077012",
+    "AMZN": "IE0032077012"
+  }
+}
