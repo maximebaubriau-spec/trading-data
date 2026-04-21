@@ -1,0 +1,154 @@
+{
+  "timestamp": "2026-04-21T16:35:15.111754",
+  "macro_bias": "NEUTRAL",
+  "best_narrative": "Layer2",
+  "narrative_scores": {
+    "Layer2": 0.0,
+    "DeFi": 0.0,
+    "RWA": 0.0,
+    "AI": 0.0,
+    "Infra": 0.0
+  },
+  "signals": {
+    "BTC": {
+      "close": 76119.6,
+      "rsi": 53.98,
+      "momentum_4h": 0.167,
+      "volume_ratio": 0.17,
+      "signal": "NEUTRE",
+      "conviction": "LOW",
+      "macro_bias": "NEUTRAL"
+    },
+    "ETH": {
+      "close": 2324.61,
+      "rsi": 54.56,
+      "momentum_4h": 0.612,
+      "volume_ratio": 0.11,
+      "signal": "NEUTRE",
+      "conviction": "LOW",
+      "macro_bias": "NEUTRAL"
+    },
+    "ARB": {
+      "close": 0.1273,
+      "rsi": 52.35,
+      "momentum_4h": 1.032,
+      "volume_ratio": 1.43,
+      "signal": "NEUTRE",
+      "conviction": "LOW",
+      "macro_bias": "NEUTRAL"
+    },
+    "OP": {
+      "close": 0.1235,
+      "rsi": 48.93,
+      "momentum_4h": 0.652,
+      "volume_ratio": 0.19,
+      "signal": "NEUTRE",
+      "conviction": "LOW",
+      "macro_bias": "NEUTRAL"
+    },
+    "MATIC": {
+      "close": 0.0936,
+      "rsi": 57.61,
+      "momentum_4h": 0.289,
+      "volume_ratio": 0.58,
+      "signal": "NEUTRE",
+      "conviction": "LOW",
+      "macro_bias": "NEUTRAL"
+    },
+    "AAVE": {
+      "close": 91.95,
+      "rsi": 48.68,
+      "momentum_4h": 0.536,
+      "volume_ratio": 0.06,
+      "signal": "NEUTRE",
+      "conviction": "LOW",
+      "macro_bias": "NEUTRAL"
+    },
+    "UNI": {
+      "close": 3.263,
+      "rsi": 50.34,
+      "momentum_4h": 0.215,
+      "volume_ratio": 0.27,
+      "signal": "NEUTRE",
+      "conviction": "LOW",
+      "macro_bias": "NEUTRAL"
+    },
+    "CRV": {
+      "close": 0.2314,
+      "rsi": 49.01,
+      "momentum_4h": -0.043,
+      "volume_ratio": 0.12,
+      "signal": "NEUTRE",
+      "conviction": "LOW",
+      "macro_bias": "NEUTRAL"
+    },
+    "ONDO": {
+      "close": 0.25756,
+      "rsi": 52.18,
+      "momentum_4h": -0.039,
+      "volume_ratio": 0.63,
+      "signal": "NEUTRE",
+      "conviction": "LOW",
+      "macro_bias": "NEUTRAL"
+    },
+    "FET": {
+      "close": 0.2101,
+      "rsi": 43.46,
+      "momentum_4h": -0.568,
+      "volume_ratio": 0.21,
+      "signal": "NEUTRE",
+      "conviction": "LOW",
+      "macro_bias": "NEUTRAL"
+    },
+    "RENDER": {
+      "close": 1.784,
+      "rsi": 47.36,
+      "momentum_4h": 0.056,
+      "volume_ratio": 0.17,
+      "signal": "NEUTRE",
+      "conviction": "LOW",
+      "macro_bias": "NEUTRAL"
+    },
+    "TAO": {
+      "close": 244.5239,
+      "rsi": 45.44,
+      "momentum_4h": -1.211,
+      "volume_ratio": 0.62,
+      "signal": "NEUTRE",
+      "conviction": "LOW",
+      "macro_bias": "NEUTRAL"
+    },
+    "LINK": {
+      "close": 9.38832,
+      "rsi": 54.16,
+      "momentum_4h": 0.445,
+      "volume_ratio": 0.0,
+      "signal": "NEUTRE",
+      "conviction": "LOW",
+      "macro_bias": "NEUTRAL"
+    },
+    "GRT": {
+      "close": 0.02471,
+      "rsi": 45.0,
+      "momentum_4h": 0.122,
+      "volume_ratio": 0.46,
+      "signal": "NEUTRE",
+      "conviction": "LOW",
+      "macro_bias": "NEUTRAL"
+    }
+  },
+  "recommandations": [],
+  "risk_blocked": false,
+  "altcoin_selection": {
+    "best_narrative": "Layer2",
+    "narrative_score": 0.0,
+    "selected": [],
+    "all_scores": {
+      "Layer2": 0.0,
+      "DeFi": 0.0,
+      "RWA": 0.0,
+      "AI": 0.0,
+      "Infra": 0.0
+    }
+  }
+}
