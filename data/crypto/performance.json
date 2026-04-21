@@ -1,0 +1,17 @@
+{
+  "paper_equity": 100.0,
+  "peak_equity": 100.0,
+  "positions": [],
+  "stats": {
+    "total_closed": 0,
+    "wins": 0,
+    "losses": 0,
+    "open": 0,
+    "hit_rate": null,
+    "avg_pnl_pct": null,
+    "by_conviction": {},
+    "by_narrative": {},
+    "updated_at": "2026-04-21T18:54:35.055808"
+  },
+  "weekly_report_last": null
+}
