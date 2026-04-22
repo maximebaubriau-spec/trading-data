@@ -127,10 +127,10 @@
           "pnl_pct": -0.88
         }
       },
-      "status": "OPEN",
-      "close_price": null,
-      "close_date": null,
-      "final_pnl": null
+      "status": "HIT_SL",
+      "close_price": 219.1,
+      "close_date": "2026-04-22",
+      "final_pnl": -6.37
     },
     {
       "id": "QQQ_LONG_2026-04-17",
@@ -499,10 +499,10 @@
           "pnl_pct": -0.04
         }
       },
-      "status": "OPEN",
-      "close_price": null,
-      "close_date": null,
-      "final_pnl": null
+      "status": "HIT_SL",
+      "close_price": 219.1,
+      "close_date": "2026-04-22",
+      "final_pnl": -5.54
     },
     {
       "id": "GLD_LONG_2026-04-18",
@@ -597,10 +597,10 @@
           "hit": false
         }
       },
-      "status": "OPEN",
-      "close_price": null,
-      "close_date": null,
-      "final_pnl": null
+      "status": "HIT_SL",
+      "close_price": 219.1,
+      "close_date": "2026-04-22",
+      "final_pnl": -5.54
     },
     {
       "id": "GLD_LONG_2026-04-19",
@@ -647,10 +647,10 @@
           "hit": false
         }
       },
-      "status": "OPEN",
-      "close_price": null,
-      "close_date": null,
-      "final_pnl": null
+      "status": "HIT_SL",
+      "close_price": 219.1,
+      "close_date": "2026-04-22",
+      "final_pnl": -5.54
     },
     {
       "id": "HY_SHORT_2026-04-19",
@@ -901,10 +901,10 @@
       "horizon": "MOYEN (1-3 mois)",
       "justification": "Escalade durable Moyen-Orient crée demande contrats aériens/navals long terme, courbe normale supporte valorisation défense, cycle de contrats s'étalant 3-6 mois.",
       "snapshots": {},
-      "status": "OPEN",
-      "close_price": null,
-      "close_date": null,
-      "final_pnl": null
+      "status": "HIT_SL",
+      "close_price": 180.88,
+      "close_date": "2026-04-22",
+      "final_pnl": -7.67
     },
     {
       "id": "XLE_LONG_2026-04-20",
@@ -1009,10 +1009,10 @@
       "horizon": "MOYEN (1-3 mois)",
       "justification": "Triple catalyseur défense validé : escalade Iran + rearmement US structurel + Japon lève restrictions exportations armes ouvre Asie-Pacifique.",
       "snapshots": {},
-      "status": "OPEN",
-      "close_price": null,
-      "close_date": null,
-      "final_pnl": null
+      "status": "HIT_SL",
+      "close_price": 180.88,
+      "close_date": "2026-04-22",
+      "final_pnl": -7.62
     },
     {
       "id": "GLD_SHORT_2026-04-21",
@@ -1254,16 +1254,73 @@
       "close_price": null,
       "close_date": null,
       "final_pnl": null
+    },
+    {
+      "id": "GLD_LONG_2026-04-22",
+      "pipeline": "macro",
+      "actif": "GLD",
+      "direction": "LONG",
+      "conviction": "HIGH",
+      "sizing_pct": 15,
+      "entry_price": 435.318,
+      "entry_date": "2026-04-22T20:01:05.542967",
+      "stop_loss_pct": -6,
+      "take_profit_pct": 15,
+      "horizon": "MOYEN (1-3 mois)",
+      "justification": "Double catalyseur safe haven: tensions Iran-Hormuz + reliquéfaction M2 (+198 Mds) + fuite USD (DXY -0.28) = environnement optimal or.",
+      "snapshots": {},
+      "status": "OPEN",
+      "close_price": null,
+      "close_date": null,
+      "final_pnl": null
+    },
+    {
+      "id": "SLV_LONG_2026-04-22",
+      "pipeline": "macro",
+      "actif": "SLV",
+      "direction": "LONG",
+      "conviction": "HIGH",
+      "sizing_pct": 8,
+      "entry_price": 70.3702,
+      "entry_date": "2026-04-22T20:01:05.542967",
+      "stop_loss_pct": -6,
+      "take_profit_pct": 15,
+      "horizon": "MOYEN (1-3 mois)",
+      "justification": "Momentum SLV +2.75% confirmé par rotation safe haven et reliquéfaction; argent plus volatile que or en RISK_OFF = upside supérieur.",
+      "snapshots": {},
+      "status": "OPEN",
+      "close_price": null,
+      "close_date": null,
+      "final_pnl": null
+    },
+    {
+      "id": "COPX_LONG_2026-04-22",
+      "pipeline": "macro",
+      "actif": "COPX",
+      "direction": "LONG",
+      "conviction": "MEDIUM",
+      "sizing_pct": 8,
+      "entry_price": 84.9,
+      "entry_date": "2026-04-22T20:01:05.542967",
+      "stop_loss_pct": -6,
+      "take_profit_pct": 15,
+      "horizon": "MOYEN (1-3 mois)",
+      "justification": "Surperformance COPX +4.21% sur rotation défensive hors tech; fuite ITA (-1.79%) redéploie capital vers commodités avec volumes confirmants.",
+      "snapshots": {},
+      "status": "OPEN",
+      "close_price": null,
+      "close_date": null,
+      "final_pnl": null
     }
   ],
   "weekly_report_last": "2026-04-16",
   "stats": {
-    "total_closed": 8,
+    "total_closed": 14,
     "wins": 1,
-    "losses": 7,
-    "open": 50,
-    "hit_rate": 0.125,
-    "avg_pnl_pct": -1.98,
+    "losses": 13,
+    "open": 47,
+    "hit_rate": 0.071,
+    "avg_pnl_pct": -3.86,
     "by_conviction": {
       "HIGH": {
         "total": 5,
