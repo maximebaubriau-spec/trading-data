@@ -564,7 +564,14 @@
       "take_profit_pct": 15,
       "horizon": "MOYEN (1-3 mois)",
       "justification": "Flight-to-quality validé par régime risk-off dominant, fermeture Ormuz et stagflation émergente créent appétit irrépressible pour Treasuries malgré signaux macro mitigés.",
-      "snapshots": {},
+      "snapshots": {
+        "J3": {
+          "date": "2026-04-22",
+          "price": 86.57,
+          "pnl_pct": -0.57,
+          "hit": false
+        }
+      },
       "status": "OPEN",
       "close_price": null,
       "close_date": null,
@@ -582,7 +589,14 @@
       "take_profit_pct": 8,
       "horizon": "COURT (1-2 sem)",
       "justification": "Double trigger (fermeture Ormuz + escalade Iran-USA + tests NK) + accumulation volume ×1.7 confirment prime défense aéronautique immédiate sur choc pétrolier.",
-      "snapshots": {},
+      "snapshots": {
+        "J3": {
+          "date": "2026-04-22",
+          "price": 223.09,
+          "pnl_pct": -3.82,
+          "hit": false
+        }
+      },
       "status": "OPEN",
       "close_price": null,
       "close_date": null,
@@ -600,7 +614,14 @@
       "take_profit_pct": 25,
       "horizon": "MOYEN (1-3 mois)",
       "justification": "Or en tête momentum (+1.33% à +3.35%), multi-triggers géopolitiques (Iran-USA, NK, crise alimentaire) + stagflation mondiale surpassent signaux macro bearish techniques.",
-      "snapshots": {},
+      "snapshots": {
+        "J3": {
+          "date": "2026-04-22",
+          "price": 429.57,
+          "pnl_pct": -3.67,
+          "hit": false
+        }
+      },
       "status": "OPEN",
       "close_price": null,
       "close_date": null,
@@ -618,7 +639,14 @@
       "take_profit_pct": 8,
       "horizon": "COURT (1-2 sem)",
       "justification": "Chaîne causale robuste (Ormuz → pénurie énergie → hausse géopolitique → armements aéronautiques), capitulation XLE/USO accélère rotation défense versus cyclique énergie.",
-      "snapshots": {},
+      "snapshots": {
+        "J3": {
+          "date": "2026-04-22",
+          "price": 223.09,
+          "pnl_pct": -3.82,
+          "hit": false
+        }
+      },
       "status": "OPEN",
       "close_price": null,
       "close_date": null,
@@ -636,7 +664,14 @@
       "take_profit_pct": 15,
       "horizon": "MOYEN (1-3 mois)",
       "justification": "Stagflation mondiale comprime marges corporates, escalade géopolitique perturbe flux crédit, régime risk-off accélère appels de marge sur high-yield.",
-      "snapshots": {},
+      "snapshots": {
+        "J3": {
+          "date": "2026-04-22",
+          "price": 38.31,
+          "pnl_pct": -0.13,
+          "hit": false
+        }
+      },
       "status": "OPEN",
       "close_price": null,
       "close_date": null,
@@ -654,7 +689,14 @@
       "take_profit_pct": 15,
       "horizon": "MOYEN (1-3 mois)",
       "justification": "SMH/QQQ surperforment en risk-off (+2.06% momentum), semi-conducteurs critiques captent allocations défense/militaire, reprise monétaire modérée soutient technos résilientes.",
-      "snapshots": {},
+      "snapshots": {
+        "J3": {
+          "date": "2026-04-22",
+          "price": 464.66,
+          "pnl_pct": 0.11,
+          "hit": true
+        }
+      },
       "status": "OPEN",
       "close_price": null,
       "close_date": null,
@@ -672,7 +714,14 @@
       "take_profit_pct": 15,
       "horizon": "MOYEN (1-3 mois)",
       "justification": "Liquidations énergie structurelles confirmées (-7.79% USO); rotation vers or/métaux précieux (+2.74% GDX) valide dérisquage court terme du pétrole.",
-      "snapshots": {},
+      "snapshots": {
+        "J3": {
+          "date": "2026-04-22",
+          "price": 55.87,
+          "pnl_pct": -1.52,
+          "hit": false
+        }
+      },
       "status": "OPEN",
       "close_price": null,
       "close_date": null,
@@ -690,7 +739,14 @@
       "take_profit_pct": 8,
       "horizon": "COURT (1-2 sem)",
       "justification": "Correction technique court terme validée par négociations US-Iran en cours et liquidations énergétiques (-7.79% USO); dérisquage géopolitique implicite.",
-      "snapshots": {},
+      "snapshots": {
+        "J3": {
+          "date": "2026-04-22",
+          "price": 81.81,
+          "pnl_pct": 4.89,
+          "hit": true
+        }
+      },
       "status": "OPEN",
       "close_price": null,
       "close_date": null,
@@ -708,7 +764,14 @@
       "take_profit_pct": 8,
       "horizon": "COURT (1-2 sem)",
       "justification": "Fear Index extrême (27) historiquement génère rebonds techniquement, capitalisant sur capitulation sentiment; dominance BTC 57.5% stabilise bases.",
-      "snapshots": {},
+      "snapshots": {
+        "J3": {
+          "date": "2026-04-22",
+          "price": 77104.3,
+          "pnl_pct": 2.48,
+          "hit": true
+        }
+      },
       "status": "OPEN",
       "close_price": null,
       "close_date": null,
@@ -744,7 +807,14 @@
       "take_profit_pct": 15,
       "horizon": "MOYEN (1-3 mois)",
       "justification": "Choc inflationniste pétrolier comprime marges tech durables; rotation value/défense valide short croissance dans stagflation persistante.",
-      "snapshots": {},
+      "snapshots": {
+        "J3": {
+          "date": "2026-04-22",
+          "price": 644.33,
+          "pnl_pct": 0.7,
+          "hit": true
+        }
+      },
       "status": "OPEN",
       "close_price": null,
       "close_date": null,
@@ -762,7 +832,14 @@
       "take_profit_pct": 15,
       "horizon": "MOYEN (1-3 mois)",
       "justification": "Dégradation fiscale Canada (Canada Post, retrait Amazon) affaiblit monnaie et équités domestiques vs relocalisation US-défense post-escalade.",
-      "snapshots": {},
+      "snapshots": {
+        "J3": {
+          "date": "2026-04-22",
+          "price": 57.82,
+          "pnl_pct": 1.21,
+          "hit": true
+        }
+      },
       "status": "OPEN",
       "close_price": null,
       "close_date": null,
@@ -780,7 +857,14 @@
       "take_profit_pct": 25,
       "horizon": "LONG (3+ mois)",
       "justification": "Retrait consensus ESG (Target, corporate withdrawals) crée flux sortants durables; rotation structurelle vers défense/energy confirme redirection capital long-terme.",
-      "snapshots": {},
+      "snapshots": {
+        "J3": {
+          "date": "2026-04-22",
+          "price": 108.43,
+          "pnl_pct": 0.11,
+          "hit": true
+        }
+      },
       "status": "OPEN",
       "close_price": null,
       "close_date": null,
@@ -1066,7 +1150,39 @@
     "open": 44,
     "hit_rate": 0.125,
     "avg_pnl_pct": -1.98,
-    "by_conviction": {},
-    "by_narrative": {}
+    "by_conviction": {
+      "HIGH": {
+        "total": 5,
+        "hits": 0,
+        "hit_rate": 0.0
+      },
+      "MEDIUM": {
+        "total": 6,
+        "hits": 5,
+        "hit_rate": 83.3
+      },
+      "LOW": {
+        "total": 1,
+        "hits": 1,
+        "hit_rate": 100.0
+      }
+    },
+    "by_narrative": {
+      "MOYEN (1-3 mois)": {
+        "total": 7,
+        "hits": 3,
+        "hit_rate": 42.9
+      },
+      "COURT (1-2 sem)": {
+        "total": 4,
+        "hits": 2,
+        "hit_rate": 50.0
+      },
+      "LONG (3+ mois)": {
+        "total": 1,
+        "hits": 1,
+        "hit_rate": 100.0
+      }
+    }
   }
 }
