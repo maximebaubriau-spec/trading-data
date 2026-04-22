@@ -1,210 +1,36 @@
 {
-  "timestamp": "2026-04-22T08:50:22.307403",
+  "timestamp": "2026-04-22T13:08:14.406206",
   "profile": "AGGRESSIVE",
-  "overall_bias": "RISK_ON",
-  "geo_risk_level": "MEDIUM",
-  "geo_themes": [],
-  "regime_macro": "EXPANSION",
+  "overall_bias": "RISK_OFF",
+  "geo_risk_level": "HIGH",
+  "geo_themes": [
+    "Escalade géopolitique Iran/Détroit d'Ormuz → choc pétrolier persistant",
+    "Stagflation énergétique européenne → divergence monétaire US-UE",
+    "Risque crédit corporatif: repricing assets financialisés (X, dettes HY)"
+  ],
+  "regime_macro": "RALENTISSEMENT",
   "posture_fed": "NEUTRE",
-  "regime_risque": "RISK_ON",
+  "regime_risque": "RISK_OFF",
   "rotations": [
-    "rotation vers l'énergie (USO +5.71%)",
-    "fuite des métaux précieux (GLD/SLV/GDX négatifs)",
-    "force crypto vs faiblesse small-caps technologiques (ITA -3.78%)",
-    "divergence défensive: énergie surperforme vs métaux chutent"
+    "Fuite vers l'énergie (USO +5.71%)",
+    "Rotation défensive avec forte baisse mining/métaux",
+    "Renforcement crypto vs actions (BTC/ETH positifs, SPY/QQQ négatifs)",
+    "Désinvestissement des secteurs de croissance (ITA -3.78%)"
   ],
-  "theses_actives": [
-    {
-      "title": "Prime de risque pétrole via tensions Détroit d'Ormuz",
-      "trigger": "Attaques navires Iran-Israël + déploiement US + cessez-le-feu fragile",
-      "actif": "USO",
-      "direction": "LONG",
-      "raisonnement": "Escalade géopolitique Hormuz → perturbations d'approvisionnement pétrolier → hausse prime de risque pétrole (+5-10%). Momentum USO déjà fort (+5.71%), macro bullish sur pétrole (expansion US, M2 croissant). Risque d'accélération si attaques s'intensifient.",
-      "conviction": "HIGH",
-      "horizon": "COURT (1-2sem)",
-      "statut": "NOUVELLE",
-      "date_ouverture": "2026-04-14"
-    },
-    {
-      "title": "Secteur énergie surperformance cyclique post-géopolitique",
-      "trigger": "Rotation depuis métaux précieux vers énergie + expansion macro US",
-      "actif": "XLE",
-      "direction": "LONG",
-      "raisonnement": "Déallocation institutionnelle GLD/SLV/GDX (volumes ×1.7-2.3) converge vers énergie. Régime expansion US (chômage 4.3%, M2↑) + tensions Hormuz = doublet haussier. XLE positionnement cyclique optimal dans environnement géopolitique inflationniste.",
-      "conviction": "HIGH",
-      "horizon": "MOYEN (1-3mois)",
-      "statut": "NOUVELLE",
-      "date_ouverture": "2026-04-14"
-    },
-    {
-      "title": "Protection inflation via matières premières énergétiques",
-      "trigger": "CPI +2.83% + risque spike pétrole Hormuz + M2 assouplissement",
-      "actif": "CL",
-      "direction": "LONG",
-      "raisonnement": "Inflation latente (CPI +2.83%) amplifiée par risque choc pétrolier Hormuz (>$100 possible). Liquidité croissante (M2 +198.2B) soutient demande commodités. Crude oil hedge contre pression inflationniste à court terme, avant potentiel resserrement Fed si spike pétrole.",
-      "conviction": "MEDIUM",
-      "horizon": "COURT (1-2sem)",
-      "statut": "NOUVELLE",
-      "date_ouverture": "2026-04-14"
-    },
-    {
-      "title": "Dérisquage métaux précieux en régime géopolitique",
-      "trigger": "Fuite GLD/SLV/GDX malgré tensions + rotation vers énergie + volatilité Hormuz",
-      "actif": "GLD",
-      "direction": "SHORT",
-      "raisonnement": "Volumes baissiers ×1.7-2.3 sur mineurs/or signalent déallocation institutionnelle forte. Or ne joue pas rôle defensive dans spike pétrolier/inflation (matière première concurrente). Risk-on crypto/énergie squeeze les allocations or. Tendance baissière consolidée.",
-      "conviction": "MEDIUM",
-      "horizon": "MOYEN (1-3mois)",
-      "statut": "NOUVELLE",
-      "date_ouverture": "2026-04-14"
-    },
-    {
-      "title": "Divergence petites caps tech vs crypto dans expansion macro",
-      "trigger": "ITA -3.78% vs BTC/ETH/SOL force relative + régime expansion US",
-      "actif": "ITA",
-      "direction": "SHORT",
-      "raisonnement": "Small-caps technologiques souffrent malgré expansion US : compression valuations ou fuite liquidité. Crypto (Fear&Greed 32, accumulation discrète) surperorme → rotation capital vers volatilité crypto plutôt que small-cap stable. ITA weakness persiste sur faible momentum.",
-      "conviction": "MEDIUM",
-      "horizon": "MOYEN (1-3mois)",
-      "statut": "NOUVELLE",
-      "date_ouverture": "2026-04-14"
-    },
-    {
-      "title": "Accumulation crypto malgré sentiment négatif (opportunité value)",
-      "trigger": "Fear&Greed index 32 + BTC/ETH/SOL momentum fort + M2 assouplissement",
-      "actif": "BTC",
-      "direction": "LONG",
-      "raisonnement": "Fear&Greed 32 signale sentiment pessimiste mais accumulation discrète en cours. Macro neutre sur crypto BUT M2↑ + liquidité expansive alimentent sous-courants haussiers. Momentum BTC/ETH/SOL fort = positionnement early-stage avant retournement sentiment.",
-      "conviction": "MEDIUM",
-      "horizon": "MOYEN (1-3mois)",
-      "statut": "NOUVELLE",
-      "date_ouverture": "2026-04-14"
-    },
-    {
-      "title": "Risque choc alimentaire si pétrole déstabilise engrais",
-      "trigger": "Pétrole >$100 via Hormuz → engrais rares → choc alimentaire Q2-Q3",
-      "actif": "COPX",
-      "direction": "SHORT",
-      "raisonnement": "Chaîne causale : spike pétrolier Hormuz → coût énergétique engrais → disruption approvisionnement → inflation alimentaire. COPX volumes ×2.3 baissiers confirment pressentiment de compression ces secteurs. Hedge court-term avant concrétisation risque inflation alimentaire.",
-      "conviction": "LOW",
-      "horizon": "LONG (3mois+)",
-      "statut": "NOUVELLE",
-      "date_ouverture": "2026-04-14"
-    },
-    {
-      "title": "Résilience marché actions value vs fragilité marché travail global",
-      "trigger": "Chômage faible US (4.3%) vs dégradation Chine/Nordique + M2 expansion",
-      "actif": "Actions value US",
-      "direction": "LONG",
-      "raisonnement": "Macro bullish sur value : courbe normale, expansion US confirmée, chômage bas US. M2↑ soutient demande cyclique. Contraste avec fragilité travail global (Chine, Suède, Finlande) = fuite liquidité vers US exécutive solides. Value screens avantageuses court-medium terme.",
-      "conviction": "MEDIUM",
-      "horizon": "MOYEN (1-3mois)",
-      "statut": "NOUVELLE",
-      "date_ouverture": "2026-04-14"
-    }
-  ],
-  "recommandations": [
-    {
-      "actif": "USO",
-      "direction": "LONG",
-      "sizing_pct": 15,
-      "stop_loss_pct": -4,
-      "take_profit_pct": 8,
-      "horizon": "COURT (1-2 sem)",
-      "conviction": "HIGH",
-      "justification": "Tensions Hormuz + momentum USO +5.71% + régime expansion US = accélération prime de risque pétrolier court terme.",
-      "points_attention": "Risque dénouement rapide si cessez-le-feu annoncé; prenez profits tôt avant volatilité géopolitique.",
-      "disponible_tr": true,
-      "isin": "IE00BM67HM91",
-      "nom_complet": "Xtrackers MSCI World Energy UCITS ETF",
-      "ticker_tr": "XEGU",
-      "ticker_yahoo_tr": "XEGU.L"
-    },
-    {
-      "actif": "XLE",
-      "direction": "LONG",
-      "sizing_pct": 15,
-      "stop_loss_pct": -6,
-      "take_profit_pct": 15,
-      "horizon": "MOYEN (1-3 mois)",
-      "conviction": "HIGH",
-      "justification": "Rotation institutionnelle GLD→énérgie (×1.7-2.3 volumes) + expansion macro US (chômage 4.3%) + tensions inflationnistes = surperformance durable secteur énergie.",
-      "points_attention": "Surveiller Fed signaux resserrement si inflation spike; dérisquez si Fed devient hawkish.",
-      "disponible_tr": true,
-      "isin": "IE00BM67HM91",
-      "nom_complet": "Xtrackers MSCI World Energy UCITS ETF",
-      "ticker_tr": "XEGU",
-      "ticker_yahoo_tr": "XEGU.L"
-    },
-    {
-      "actif": "CL",
-      "direction": "LONG",
-      "sizing_pct": 8,
-      "stop_loss_pct": -4,
-      "take_profit_pct": 8,
-      "horizon": "COURT (1-2 sem)",
-      "conviction": "MEDIUM",
-      "justification": "CPI +2.83% + risque choc Hormuz >$100 + M2 croissant = protection inflation court terme via brut.",
-      "points_attention": "Volatilité géopolitique extrême; établissez stop strict et capitalisez dès TP atteint.",
-      "disponible_tr": false
-    },
-    {
-      "actif": "GLD",
-      "direction": "SHORT",
-      "sizing_pct": 8,
-      "stop_loss_pct": -6,
-      "take_profit_pct": 15,
-      "horizon": "MOYEN (1-3 mois)",
-      "conviction": "MEDIUM",
-      "justification": "Déallocation institutionnelle forte (×1.7-2.3 volumes) + or inefficace face spike pétrolier/inflation = pression baissière consolidée.",
-      "points_attention": "Or peut rebondir si tensions géopolitiques s'aggravent massivement; cumulez position progressivement.",
-      "disponible_tr": true,
-      "isin": "IE00B4ND3602",
-      "nom_complet": "iShares Physical Gold ETC",
-      "ticker_tr": "IGLN",
-      "ticker_yahoo_tr": "IGLN.L"
-    },
-    {
-      "actif": "ITA",
-      "direction": "SHORT",
-      "sizing_pct": 8,
-      "stop_loss_pct": -6,
-      "take_profit_pct": 15,
-      "horizon": "MOYEN (1-3 mois)",
-      "conviction": "MEDIUM",
-      "justification": "Small-caps tech -3.78% vs crypto/énergie strength = rotation capital vers volatilité; compression valuations persiste.",
-      "points_attention": "Rebond possible sur value; confirmez faiblesse momentum avant d'accumuler.",
-      "disponible_tr": true,
-      "isin": "IE00B42Z6P97",
-      "nom_complet": "iShares STOXX Europe 600 Aerospace & Defence UCITS ETF",
-      "ticker_tr": "EXV3",
-      "ticker_yahoo_tr": "EXV3.DE"
-    },
-    {
-      "actif": "BTC",
-      "direction": "LONG",
-      "sizing_pct": 8,
-      "stop_loss_pct": -6,
-      "take_profit_pct": 25,
-      "horizon": "MOYEN (1-3 mois)",
-      "conviction": "MEDIUM",
-      "justification": "Fear&Greed 32 + momentum BTC/ETH/SOL fort + M2 croissant = accumulation early-stage avant retournement sentiment (value crypto).",
-      "points_attention": "Liquidité crypto volatile; position dimensionnée aggressivement mais scalez si Fear&Greed descend sous 20.",
-      "disponible_tr": false
-    }
-  ],
+  "theses_actives": [],
+  "recommandations": [],
   "fear_greed": {
     "value": 32,
     "label": "Fear",
     "yesterday": 33
   },
   "btc_dominance": 57.9,
-  "geo_resume": "",
-  "macro_resume": "La Fed demeure neutre avec taux stables (3.64%) et courbe normale (+0.54%), régime d'expansion US confirmé par chômage bas (4.3%) et M2 croissant. Tensions géopolitiques Hormuz (attaques navires, déploiement troupes US) posent risque inflationniste pétrolier immédiat. Fragilité du marché du travail émergent (Chine, Nordique) contraste avec résilience US mais presage ralentissement 2026.",
-  "marches_resume": "Régime de prise de risque sélective : crypto en force relative (+2%+) tandis que le marché actions large cap reste neutre. Rotation majeure depuis les métaux précieux (GLD/SLV/GDX) vers l'énergie (USO dominant) avec volumes importants signalant une déallocation institutionnelle. Fear&Greed à 32 indique une accumulation discrète en crypto malgré sentiment négatif.",
+  "geo_resume": "Tensions Iran créent primes de risque pétrolier ($100+/bbl) malgré signaux diplomatiques apaisants; Lufthansa-Allemagne illustrent compression des marges énergétiques. ECB bloquée en cycle de hausse face à chocs énergétiques → affaiblissement euro. Repricing crédit spéculatif (dettes X) test résilience obligataire HY.",
+  "macro_resume": "La Fed maintient une posture neutre avec taux stable à 3.64% tandis que l'inflation accélère (+2.83%) et le chômage baisse (4.30%), signalant un ralentissement sans récession immédiate. La crise Iran/Ormuz crée un choc d'offre pétrolière (>$100/bbl) menaçant de stagfllationniser l'économie européenne et affectant les valuations de croissance. L'or et le pétrole bénéficient de l'incertitude géopolitique; les technos se dégradent face au risque inflationniste persistant.",
+  "marches_resume": "Marché en mode peur (Fear & Greed 32) avec rotation claire vers actifs refuge: énergie surperforme (USO +5.71%) tandis que métaux précieux et mining s'effondrent sur volumes massifs (COPX, GDX). Les cryptos restent résilientes (+2-3%) mais actions US fléchissent, signalant une fuite défensive des positions de croissance vers commodités énergétiques et actifs numériques.",
   "tokens_used": {
-    "input": 6367,
-    "output": 4863
+    "input": 5742,
+    "output": 4658
   },
-  "cost_eur": 0.00713
+  "cost_eur": 0.00675
 }
