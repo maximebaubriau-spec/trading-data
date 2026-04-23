@@ -1526,6 +1526,27 @@
       "close_price": null,
       "close_date": null,
       "final_pnl": null
+    },
+    {
+      "id": "ITA_LONG_2026-04-23",
+      "pipeline": "macro",
+      "actif": "ITA",
+      "direction": "LONG",
+      "conviction": "MEDIUM",
+      "sizing_pct": 5.0,
+      "entry_price": 219.15,
+      "entry_date": "2026-04-23T08:54:03.786824",
+      "stop_loss_pct": -4.0,
+      "take_profit_pct": 8.0,
+      "ratio_risk_reward": 2.0,
+      "horizon": "COURT",
+      "irm_source": "fallback",
+      "justification": "Paramètres par défaut (agent indisponible)",
+      "snapshots": {},
+      "status": "OPEN",
+      "close_price": null,
+      "close_date": null,
+      "final_pnl": null
     }
   ],
   "weekly_report_last": "2026-04-23",
@@ -1533,7 +1554,7 @@
     "total_closed": 14,
     "wins": 1,
     "losses": 13,
-    "open": 55,
+    "open": 56,
     "hit_rate": 0.071,
     "avg_pnl_pct": -3.86,
     "by_conviction": {
