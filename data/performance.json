@@ -445,10 +445,10 @@
           "pnl_pct": -0.98
         }
       },
-      "status": "OPEN",
-      "close_price": null,
-      "close_date": null,
-      "final_pnl": null
+      "status": "HIT_SL",
+      "close_price": 40.16,
+      "close_date": "2026-04-24",
+      "final_pnl": -4.73
     },
     {
       "id": "TLT_LONG_2026-04-18",
@@ -1966,12 +1966,12 @@
   ],
   "weekly_report_last": "2026-04-23",
   "stats": {
-    "total_closed": 18,
+    "total_closed": 19,
     "wins": 3,
-    "losses": 15,
-    "open": 68,
-    "hit_rate": 0.167,
-    "avg_pnl_pct": -1.79,
+    "losses": 16,
+    "open": 67,
+    "hit_rate": 0.158,
+    "avg_pnl_pct": -1.95,
     "by_conviction": {
       "MEDIUM": {
         "total": 20,
