@@ -395,6 +395,12 @@
           "date": "2026-04-21",
           "price": 231.85,
           "pnl_pct": 0.04
+        },
+        "J7": {
+          "date": "2026-04-25",
+          "price": 215.8,
+          "pnl_pct": 7.48,
+          "hit": true
         }
       },
       "status": "OPEN",
@@ -419,6 +425,12 @@
           "date": "2026-04-21",
           "price": 646.79,
           "pnl_pct": -0.32
+        },
+        "J7": {
+          "date": "2026-04-25",
+          "price": 663.88,
+          "pnl_pct": 2.32,
+          "hit": true
         }
       },
       "status": "OPEN",
@@ -467,6 +479,12 @@
           "date": "2026-04-21",
           "price": 87.05,
           "pnl_pct": -0.02
+        },
+        "J7": {
+          "date": "2026-04-25",
+          "price": 86.71,
+          "pnl_pct": -0.41,
+          "hit": false
         }
       },
       "status": "OPEN",
@@ -491,6 +509,12 @@
           "date": "2026-04-21",
           "price": 130.18,
           "pnl_pct": 1.83
+        },
+        "J7": {
+          "date": "2026-04-25",
+          "price": 129.26,
+          "pnl_pct": 1.11,
+          "hit": true
         }
       },
       "status": "OPEN",
@@ -515,6 +539,12 @@
           "date": "2026-04-21",
           "price": 75801.7188,
           "pnl_pct": 2.1
+        },
+        "J7": {
+          "date": "2026-04-25",
+          "price": 77617.0,
+          "pnl_pct": -0.28,
+          "hit": false
         }
       },
       "status": "OPEN",
@@ -563,6 +593,12 @@
           "date": "2026-04-21",
           "price": 442.09,
           "pnl_pct": -0.86
+        },
+        "J7": {
+          "date": "2026-04-25",
+          "price": 433.25,
+          "pnl_pct": -2.84,
+          "hit": false
         }
       },
       "status": "OPEN",
@@ -587,6 +623,12 @@
           "date": "2026-04-21",
           "price": 463.96,
           "pnl_pct": -0.04
+        },
+        "J7": {
+          "date": "2026-04-25",
+          "price": 506.44,
+          "pnl_pct": 9.11,
+          "hit": true
         }
       },
       "status": "OPEN",
@@ -1280,7 +1322,14 @@
       "take_profit_pct": 8,
       "horizon": "COURT (1-2 sem)",
       "justification": "Tensions Hormuz + momentum USO +5.71% + régime expansion US = accélération prime de risque pétrolier court terme.",
-      "snapshots": {},
+      "snapshots": {
+        "J3": {
+          "date": "2026-04-25",
+          "price": 132.4,
+          "pnl_pct": 3.24,
+          "hit": true
+        }
+      },
       "status": "OPEN",
       "close_price": null,
       "close_date": null,
@@ -1299,7 +1348,14 @@
       "take_profit_pct": 15,
       "horizon": "MOYEN (1-3 mois)",
       "justification": "Rotation institutionnelle GLD→énérgie (×1.7-2.3 volumes) + expansion macro US (chômage 4.3%) + tensions inflationnistes = surperformance durable secteur énergie.",
-      "snapshots": {},
+      "snapshots": {
+        "J3": {
+          "date": "2026-04-25",
+          "price": 56.87,
+          "pnl_pct": 1.79,
+          "hit": true
+        }
+      },
       "status": "OPEN",
       "close_price": null,
       "close_date": null,
@@ -1318,7 +1374,14 @@
       "take_profit_pct": 8,
       "horizon": "COURT (1-2 sem)",
       "justification": "CPI +2.83% + risque choc Hormuz >$100 + M2 croissant = protection inflation court terme via brut.",
-      "snapshots": {},
+      "snapshots": {
+        "J3": {
+          "date": "2026-04-25",
+          "price": 84.65,
+          "pnl_pct": 3.47,
+          "hit": true
+        }
+      },
       "status": "OPEN",
       "close_price": null,
       "close_date": null,
@@ -1337,7 +1400,14 @@
       "take_profit_pct": 15,
       "horizon": "MOYEN (1-3 mois)",
       "justification": "Déallocation institutionnelle forte (×1.7-2.3 volumes) + or inefficace face spike pétrolier/inflation = pression baissière consolidée.",
-      "snapshots": {},
+      "snapshots": {
+        "J3": {
+          "date": "2026-04-25",
+          "price": 433.25,
+          "pnl_pct": -0.85,
+          "hit": false
+        }
+      },
       "status": "OPEN",
       "close_price": null,
       "close_date": null,
@@ -1356,7 +1426,14 @@
       "take_profit_pct": 15,
       "horizon": "MOYEN (1-3 mois)",
       "justification": "Small-caps tech -3.78% vs crypto/énergie strength = rotation capital vers volatilité; compression valuations persiste.",
-      "snapshots": {},
+      "snapshots": {
+        "J3": {
+          "date": "2026-04-25",
+          "price": 215.8,
+          "pnl_pct": 3.38,
+          "hit": true
+        }
+      },
       "status": "OPEN",
       "close_price": null,
       "close_date": null,
@@ -1375,7 +1452,14 @@
       "take_profit_pct": 25,
       "horizon": "MOYEN (1-3 mois)",
       "justification": "Fear&Greed 32 + momentum BTC/ETH/SOL fort + M2 croissant = accumulation early-stage avant retournement sentiment (value crypto).",
-      "snapshots": {},
+      "snapshots": {
+        "J3": {
+          "date": "2026-04-25",
+          "price": 77617.0,
+          "pnl_pct": -0.46,
+          "hit": false
+        }
+      },
       "status": "OPEN",
       "close_price": null,
       "close_date": null,
@@ -1394,7 +1478,14 @@
       "take_profit_pct": 15,
       "horizon": "MOYEN (1-3 mois)",
       "justification": "Double catalyseur safe haven: tensions Iran-Hormuz + reliquéfaction M2 (+198 Mds) + fuite USD (DXY -0.28) = environnement optimal or.",
-      "snapshots": {},
+      "snapshots": {
+        "J3": {
+          "date": "2026-04-25",
+          "price": 433.25,
+          "pnl_pct": -0.48,
+          "hit": false
+        }
+      },
       "status": "OPEN",
       "close_price": null,
       "close_date": null,
@@ -1413,7 +1504,14 @@
       "take_profit_pct": 15,
       "horizon": "MOYEN (1-3 mois)",
       "justification": "Momentum SLV +2.75% confirmé par rotation safe haven et reliquéfaction; argent plus volatile que or en RISK_OFF = upside supérieur.",
-      "snapshots": {},
+      "snapshots": {
+        "J3": {
+          "date": "2026-04-25",
+          "price": 68.79,
+          "pnl_pct": -2.25,
+          "hit": false
+        }
+      },
       "status": "OPEN",
       "close_price": null,
       "close_date": null,
@@ -1432,7 +1530,14 @@
       "take_profit_pct": 15,
       "horizon": "MOYEN (1-3 mois)",
       "justification": "Surperformance COPX +4.21% sur rotation défensive hors tech; fuite ITA (-1.79%) redéploie capital vers commodités avec volumes confirmants.",
-      "snapshots": {},
+      "snapshots": {
+        "J3": {
+          "date": "2026-04-25",
+          "price": 82.37,
+          "pnl_pct": -2.98,
+          "hit": false
+        }
+      },
       "status": "OPEN",
       "close_price": null,
       "close_date": null,
@@ -1832,10 +1937,10 @@
       "irm_source": "fallback",
       "justification": "Paramètres par défaut (agent indisponible)",
       "snapshots": {},
-      "status": "OPEN",
-      "close_price": null,
-      "close_date": null,
-      "final_pnl": null
+      "status": "HIT_SL",
+      "close_price": 54.68,
+      "close_date": "2026-04-25",
+      "final_pnl": -0.62
     },
     {
       "id": "EEM_SHORT_2026-04-24",
@@ -1853,10 +1958,10 @@
       "irm_source": "fallback",
       "justification": "Paramètres par défaut (agent indisponible)",
       "snapshots": {},
-      "status": "OPEN",
-      "close_price": null,
-      "close_date": null,
-      "final_pnl": null
+      "status": "HIT_SL",
+      "close_price": 63.74,
+      "close_date": "2026-04-25",
+      "final_pnl": -2.18
     },
     {
       "id": "SMH_LONG_2026-04-24",
@@ -1937,10 +2042,10 @@
       "irm_source": "fallback",
       "justification": "Paramètres par défaut (agent indisponible)",
       "snapshots": {},
-      "status": "OPEN",
-      "close_price": null,
-      "close_date": null,
-      "final_pnl": null
+      "status": "HIT_SL",
+      "close_price": 663.88,
+      "close_date": "2026-04-25",
+      "final_pnl": -1.88
     },
     {
       "id": "VGT_SHORT_2026-04-24",
@@ -1958,6 +2063,111 @@
       "irm_source": "fallback",
       "justification": "Paramètres par défaut (agent indisponible)",
       "snapshots": {},
+      "status": "HIT_SL",
+      "close_price": 104.16,
+      "close_date": "2026-04-25",
+      "final_pnl": -2.49
+    },
+    {
+      "id": "SMH_LONG_2026-04-25",
+      "pipeline": "macro",
+      "actif": "SMH",
+      "direction": "LONG",
+      "conviction": "HIGH",
+      "sizing_pct": 10.0,
+      "entry_price": 506.44,
+      "entry_date": "2026-04-25T02:26:04.980241",
+      "stop_loss_pct": -4.0,
+      "take_profit_pct": 8.0,
+      "ratio_risk_reward": 2.0,
+      "horizon": "COURT",
+      "irm_source": "fallback",
+      "justification": "Paramètres par défaut (agent indisponible)",
+      "snapshots": {},
+      "status": "OPEN",
+      "close_price": null,
+      "close_date": null,
+      "final_pnl": null
+    },
+    {
+      "id": "SPY_LONG_2026-04-25",
+      "pipeline": "macro",
+      "actif": "SPY",
+      "direction": "LONG",
+      "conviction": "HIGH",
+      "sizing_pct": 10.0,
+      "entry_price": 713.94,
+      "entry_date": "2026-04-25T02:26:04.980241",
+      "stop_loss_pct": -4.0,
+      "take_profit_pct": 8.0,
+      "ratio_risk_reward": 2.0,
+      "horizon": "COURT",
+      "irm_source": "fallback",
+      "justification": "Paramètres par défaut (agent indisponible)",
+      "snapshots": {},
+      "status": "OPEN",
+      "close_price": null,
+      "close_date": null,
+      "final_pnl": null
+    },
+    {
+      "id": "GLD_LONG_2026-04-25",
+      "pipeline": "macro",
+      "actif": "GLD",
+      "direction": "LONG",
+      "conviction": "MEDIUM",
+      "sizing_pct": 5.0,
+      "entry_price": 433.25,
+      "entry_date": "2026-04-25T02:26:04.980241",
+      "stop_loss_pct": -4.0,
+      "take_profit_pct": 8.0,
+      "ratio_risk_reward": 2.0,
+      "horizon": "COURT",
+      "irm_source": "fallback",
+      "justification": "Paramètres par défaut (agent indisponible)",
+      "snapshots": {},
+      "status": "OPEN",
+      "close_price": null,
+      "close_date": null,
+      "final_pnl": null
+    },
+    {
+      "id": "XLE_SHORT_2026-04-25",
+      "pipeline": "macro",
+      "actif": "XLE",
+      "direction": "SHORT",
+      "conviction": "MEDIUM",
+      "sizing_pct": 5.0,
+      "entry_price": 56.87,
+      "entry_date": "2026-04-25T02:26:04.980241",
+      "stop_loss_pct": 4.0,
+      "take_profit_pct": -8.0,
+      "ratio_risk_reward": 2.0,
+      "horizon": "COURT",
+      "irm_source": "fallback",
+      "justification": "Paramètres par défaut (agent indisponible)",
+      "snapshots": {},
+      "status": "OPEN",
+      "close_price": null,
+      "close_date": null,
+      "final_pnl": null
+    },
+    {
+      "id": "BTC_NEUTRE_2026-04-25",
+      "pipeline": "macro",
+      "actif": "BTC",
+      "direction": "NEUTRE",
+      "conviction": "LOW",
+      "sizing_pct": 3.0,
+      "entry_price": 77617.0,
+      "entry_date": "2026-04-25T02:26:04.980241",
+      "stop_loss_pct": -3.0,
+      "take_profit_pct": 8.0,
+      "ratio_risk_reward": 2.67,
+      "horizon": "COURT",
+      "irm_source": "fallback",
+      "justification": "Paramètres par défaut (agent indisponible)",
+      "snapshots": {},
       "status": "OPEN",
       "close_price": null,
       "close_date": null,
@@ -1966,34 +2176,34 @@
   ],
   "weekly_report_last": "2026-04-23",
   "stats": {
-    "total_closed": 19,
+    "total_closed": 23,
     "wins": 3,
-    "losses": 16,
-    "open": 67,
-    "hit_rate": 0.158,
-    "avg_pnl_pct": -1.95,
+    "losses": 20,
+    "open": 68,
+    "hit_rate": 0.13,
+    "avg_pnl_pct": -1.92,
     "by_conviction": {
       "MEDIUM": {
-        "total": 20,
-        "hits": 17,
-        "hit_rate": 85.0
+        "total": 29,
+        "hits": 22,
+        "hit_rate": 75.9
       },
       "HIGH": {
-        "total": 10,
-        "hits": 5,
+        "total": 16,
+        "hits": 8,
         "hit_rate": 50.0
       },
       "LOW": {
-        "total": 1,
+        "total": 2,
         "hits": 1,
-        "hit_rate": 100.0
+        "hit_rate": 50.0
       }
     },
     "by_narrative": {
       "MOYEN (1-3 mois)": {
-        "total": 15,
-        "hits": 10,
-        "hit_rate": 66.7
+        "total": 27,
+        "hits": 15,
+        "hit_rate": 55.6
       },
       "COURT (1-2 semaines)": {
         "total": 3,
@@ -2001,9 +2211,9 @@
         "hit_rate": 100.0
       },
       "COURT (1-2 sem)": {
-        "total": 11,
-        "hits": 9,
-        "hit_rate": 81.8
+        "total": 15,
+        "hits": 12,
+        "hit_rate": 80.0
       },
       "LONG (3+ mois)": {
         "total": 1,
