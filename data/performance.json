@@ -2620,6 +2620,27 @@
       "close_price": null,
       "close_date": null,
       "final_pnl": null
+    },
+    {
+      "id": "USO_LONG_2026-04-27",
+      "pipeline": "macro",
+      "actif": "USO",
+      "direction": "LONG",
+      "conviction": "HIGH",
+      "sizing_pct": 10.0,
+      "entry_price": 134.75,
+      "entry_date": "2026-04-27T20:04:21.289877",
+      "stop_loss_pct": -4.0,
+      "take_profit_pct": 8.0,
+      "ratio_risk_reward": 2.0,
+      "horizon": "COURT",
+      "irm_source": "fallback",
+      "justification": "Paramètres par défaut (agent indisponible)",
+      "snapshots": {},
+      "status": "OPEN",
+      "close_price": null,
+      "close_date": null,
+      "final_pnl": null
     }
   ],
   "weekly_report_last": "2026-04-23",
@@ -2627,7 +2648,7 @@
     "total_closed": 25,
     "wins": 3,
     "losses": 22,
-    "open": 77,
+    "open": 78,
     "hit_rate": 0.12,
     "avg_pnl_pct": -1.77,
     "by_conviction": {
