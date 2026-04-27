@@ -654,6 +654,12 @@
           "price": 86.57,
           "pnl_pct": -0.57,
           "hit": false
+        },
+        "J7": {
+          "date": "2026-04-26",
+          "price": 86.71,
+          "pnl_pct": -0.41,
+          "hit": false
         }
       },
       "status": "OPEN",
@@ -703,6 +709,12 @@
           "date": "2026-04-22",
           "price": 429.57,
           "pnl_pct": -3.67,
+          "hit": false
+        },
+        "J7": {
+          "date": "2026-04-26",
+          "price": 433.25,
+          "pnl_pct": -2.84,
           "hit": false
         }
       },
@@ -754,6 +766,12 @@
           "price": 38.31,
           "pnl_pct": -0.13,
           "hit": false
+        },
+        "J7": {
+          "date": "2026-04-26",
+          "price": 40.24,
+          "pnl_pct": -4.92,
+          "hit": false
         }
       },
       "status": "OPEN",
@@ -778,6 +796,12 @@
           "date": "2026-04-22",
           "price": 464.66,
           "pnl_pct": 0.11,
+          "hit": true
+        },
+        "J7": {
+          "date": "2026-04-26",
+          "price": 506.44,
+          "pnl_pct": 9.11,
           "hit": true
         }
       },
@@ -804,6 +828,12 @@
           "price": 55.87,
           "pnl_pct": -1.52,
           "hit": false
+        },
+        "J7": {
+          "date": "2026-04-26",
+          "price": 56.87,
+          "pnl_pct": -3.25,
+          "hit": false
         }
       },
       "status": "OPEN",
@@ -829,6 +859,12 @@
           "price": 81.81,
           "pnl_pct": 4.89,
           "hit": true
+        },
+        "J7": {
+          "date": "2026-04-26",
+          "price": 84.65,
+          "pnl_pct": 1.37,
+          "hit": true
         }
       },
       "status": "OPEN",
@@ -853,6 +889,12 @@
           "date": "2026-04-22",
           "price": 77104.3,
           "pnl_pct": 2.48,
+          "hit": true
+        },
+        "J7": {
+          "date": "2026-04-26",
+          "price": 77776.4,
+          "pnl_pct": 3.38,
           "hit": true
         }
       },
@@ -897,6 +939,12 @@
           "price": 644.33,
           "pnl_pct": 0.7,
           "hit": true
+        },
+        "J7": {
+          "date": "2026-04-26",
+          "price": 663.88,
+          "pnl_pct": -2.26,
+          "hit": false
         }
       },
       "status": "OPEN",
@@ -922,6 +970,12 @@
           "price": 57.82,
           "pnl_pct": 1.21,
           "hit": true
+        },
+        "J7": {
+          "date": "2026-04-26",
+          "price": 57.94,
+          "pnl_pct": 1.0,
+          "hit": true
         }
       },
       "status": "OPEN",
@@ -946,6 +1000,12 @@
           "date": "2026-04-22",
           "price": 108.43,
           "pnl_pct": 0.11,
+          "hit": true
+        },
+        "J7": {
+          "date": "2026-04-26",
+          "price": 108.19,
+          "pnl_pct": 0.33,
           "hit": true
         }
       },
@@ -1015,6 +1075,12 @@
           "price": 56.54,
           "pnl_pct": 2.83,
           "hit": true
+        },
+        "J7": {
+          "date": "2026-04-27",
+          "price": 56.87,
+          "pnl_pct": 3.43,
+          "hit": true
         }
       },
       "status": "OPEN",
@@ -1039,6 +1105,12 @@
           "date": "2026-04-23",
           "price": 655.11,
           "pnl_pct": 1.37,
+          "hit": true
+        },
+        "J7": {
+          "date": "2026-04-27",
+          "price": 663.88,
+          "pnl_pct": 2.72,
           "hit": true
         }
       },
@@ -1065,6 +1137,12 @@
           "price": 78050.1,
           "pnl_pct": 2.33,
           "hit": true
+        },
+        "J7": {
+          "date": "2026-04-27",
+          "price": 77776.4,
+          "pnl_pct": 1.98,
+          "hit": true
         }
       },
       "status": "OPEN",
@@ -1089,6 +1167,12 @@
           "date": "2026-04-23",
           "price": 435.26,
           "pnl_pct": 1.54,
+          "hit": true
+        },
+        "J7": {
+          "date": "2026-04-27",
+          "price": 433.25,
+          "pnl_pct": 2.01,
           "hit": true
         }
       },
@@ -1558,7 +1642,14 @@
       "horizon": "COURT",
       "irm_source": "fallback",
       "justification": "Paramètres par défaut (agent indisponible)",
-      "snapshots": {},
+      "snapshots": {
+        "J3": {
+          "date": "2026-04-26",
+          "price": 68.79,
+          "pnl_pct": -2.25,
+          "hit": false
+        }
+      },
       "status": "OPEN",
       "close_price": null,
       "close_date": null,
@@ -1579,7 +1670,14 @@
       "horizon": "COURT",
       "irm_source": "fallback",
       "justification": "Paramètres par défaut (agent indisponible)",
-      "snapshots": {},
+      "snapshots": {
+        "J3": {
+          "date": "2026-04-26",
+          "price": 433.25,
+          "pnl_pct": -0.46,
+          "hit": false
+        }
+      },
       "status": "OPEN",
       "close_price": null,
       "close_date": null,
@@ -1600,7 +1698,14 @@
       "horizon": "COURT",
       "irm_source": "fallback",
       "justification": "Paramètres par défaut (agent indisponible)",
-      "snapshots": {},
+      "snapshots": {
+        "J3": {
+          "date": "2026-04-26",
+          "price": 82.37,
+          "pnl_pct": -2.98,
+          "hit": false
+        }
+      },
       "status": "OPEN",
       "close_price": null,
       "close_date": null,
@@ -1621,7 +1726,14 @@
       "horizon": "COURT",
       "irm_source": "fallback",
       "justification": "Paramètres par défaut (agent indisponible)",
-      "snapshots": {},
+      "snapshots": {
+        "J3": {
+          "date": "2026-04-26",
+          "price": 77776.4,
+          "pnl_pct": -0.35,
+          "hit": false
+        }
+      },
       "status": "OPEN",
       "close_price": null,
       "close_date": null,
@@ -1642,7 +1754,14 @@
       "horizon": "COURT",
       "irm_source": "fallback",
       "justification": "Paramètres par défaut (agent indisponible)",
-      "snapshots": {},
+      "snapshots": {
+        "J3": {
+          "date": "2026-04-26",
+          "price": 2319.44,
+          "pnl_pct": -1.55,
+          "hit": false
+        }
+      },
       "status": "OPEN",
       "close_price": null,
       "close_date": null,
@@ -1663,7 +1782,14 @@
       "horizon": "COURT",
       "irm_source": "fallback",
       "justification": "Paramètres par défaut (agent indisponible)",
-      "snapshots": {},
+      "snapshots": {
+        "J3": {
+          "date": "2026-04-26",
+          "price": 132.4,
+          "pnl_pct": 2.32,
+          "hit": true
+        }
+      },
       "status": "OPEN",
       "close_price": null,
       "close_date": null,
@@ -1684,7 +1810,14 @@
       "horizon": "COURT",
       "irm_source": "fallback",
       "justification": "Paramètres par défaut (agent indisponible)",
-      "snapshots": {},
+      "snapshots": {
+        "J3": {
+          "date": "2026-04-26",
+          "price": 506.44,
+          "pnl_pct": 6.21,
+          "hit": true
+        }
+      },
       "status": "OPEN",
       "close_price": null,
       "close_date": null,
@@ -1705,7 +1838,14 @@
       "horizon": "COURT",
       "irm_source": "fallback",
       "justification": "Paramètres par défaut (agent indisponible)",
-      "snapshots": {},
+      "snapshots": {
+        "J3": {
+          "date": "2026-04-26",
+          "price": 95.28,
+          "pnl_pct": 5.87,
+          "hit": true
+        }
+      },
       "status": "OPEN",
       "close_price": null,
       "close_date": null,
@@ -1726,7 +1866,14 @@
       "horizon": "COURT",
       "irm_source": "fallback",
       "justification": "Paramètres par défaut (agent indisponible)",
-      "snapshots": {},
+      "snapshots": {
+        "J3": {
+          "date": "2026-04-26",
+          "price": 215.8,
+          "pnl_pct": -1.53,
+          "hit": false
+        }
+      },
       "status": "OPEN",
       "close_price": null,
       "close_date": null,
@@ -1747,7 +1894,14 @@
       "horizon": "COURT",
       "irm_source": "fallback",
       "justification": "Paramètres par défaut (agent indisponible)",
-      "snapshots": {},
+      "snapshots": {
+        "J3": {
+          "date": "2026-04-26",
+          "price": 56.87,
+          "pnl_pct": 0.58,
+          "hit": true
+        }
+      },
       "status": "OPEN",
       "close_price": null,
       "close_date": null,
@@ -1768,7 +1922,14 @@
       "horizon": "COURT",
       "irm_source": "fallback",
       "justification": "Paramètres par défaut (agent indisponible)",
-      "snapshots": {},
+      "snapshots": {
+        "J3": {
+          "date": "2026-04-26",
+          "price": 84.65,
+          "pnl_pct": 1.1,
+          "hit": true
+        }
+      },
       "status": "OPEN",
       "close_price": null,
       "close_date": null,
@@ -1831,7 +1992,14 @@
       "horizon": "COURT",
       "irm_source": "fallback",
       "justification": "Paramètres par défaut (agent indisponible)",
-      "snapshots": {},
+      "snapshots": {
+        "J3": {
+          "date": "2026-04-26",
+          "price": 86.71,
+          "pnl_pct": 0.18,
+          "hit": true
+        }
+      },
       "status": "OPEN",
       "close_price": null,
       "close_date": null,
@@ -1852,7 +2020,14 @@
       "horizon": "COURT",
       "irm_source": "fallback",
       "justification": "Paramètres par défaut (agent indisponible)",
-      "snapshots": {},
+      "snapshots": {
+        "J3": {
+          "date": "2026-04-27",
+          "price": 132.4,
+          "pnl_pct": -1.72,
+          "hit": false
+        }
+      },
       "status": "OPEN",
       "close_price": null,
       "close_date": null,
@@ -1873,7 +2048,14 @@
       "horizon": "COURT",
       "irm_source": "fallback",
       "justification": "Paramètres par défaut (agent indisponible)",
-      "snapshots": {},
+      "snapshots": {
+        "J3": {
+          "date": "2026-04-27",
+          "price": 84.65,
+          "pnl_pct": 1.11,
+          "hit": true
+        }
+      },
       "status": "OPEN",
       "close_price": null,
       "close_date": null,
@@ -1894,7 +2076,14 @@
       "horizon": "COURT",
       "irm_source": "fallback",
       "justification": "Paramètres par défaut (agent indisponible)",
-      "snapshots": {},
+      "snapshots": {
+        "J3": {
+          "date": "2026-04-27",
+          "price": 56.87,
+          "pnl_pct": -0.19,
+          "hit": false
+        }
+      },
       "status": "OPEN",
       "close_price": null,
       "close_date": null,
@@ -1915,7 +2104,14 @@
       "horizon": "COURT",
       "irm_source": "fallback",
       "justification": "Paramètres par défaut (agent indisponible)",
-      "snapshots": {},
+      "snapshots": {
+        "J3": {
+          "date": "2026-04-27",
+          "price": 95.28,
+          "pnl_pct": -1.01,
+          "hit": false
+        }
+      },
       "status": "OPEN",
       "close_price": null,
       "close_date": null,
@@ -1978,7 +2174,14 @@
       "horizon": "COURT",
       "irm_source": "fallback",
       "justification": "Paramètres par défaut (agent indisponible)",
-      "snapshots": {},
+      "snapshots": {
+        "J3": {
+          "date": "2026-04-27",
+          "price": 506.44,
+          "pnl_pct": 5.1,
+          "hit": true
+        }
+      },
       "status": "OPEN",
       "close_price": null,
       "close_date": null,
@@ -1999,7 +2202,14 @@
       "horizon": "COURT",
       "irm_source": "fallback",
       "justification": "Paramètres par défaut (agent indisponible)",
-      "snapshots": {},
+      "snapshots": {
+        "J3": {
+          "date": "2026-04-27",
+          "price": 433.25,
+          "pnl_pct": 0.51,
+          "hit": true
+        }
+      },
       "status": "OPEN",
       "close_price": null,
       "close_date": null,
@@ -2020,7 +2230,14 @@
       "horizon": "COURT",
       "irm_source": "fallback",
       "justification": "Paramètres par défaut (agent indisponible)",
-      "snapshots": {},
+      "snapshots": {
+        "J3": {
+          "date": "2026-04-27",
+          "price": 86.71,
+          "pnl_pct": 0.18,
+          "hit": true
+        }
+      },
       "status": "OPEN",
       "close_price": null,
       "close_date": null,
@@ -2147,10 +2364,10 @@
       "irm_source": "fallback",
       "justification": "Paramètres par défaut (agent indisponible)",
       "snapshots": {},
-      "status": "OPEN",
-      "close_price": null,
-      "close_date": null,
-      "final_pnl": null
+      "status": "HIT_SL",
+      "close_price": 56.87,
+      "close_date": "2026-04-27",
+      "final_pnl": 0.0
     },
     {
       "id": "BTC_NEUTRE_2026-04-25",
@@ -2210,6 +2427,174 @@
       "irm_source": "fallback",
       "justification": "Paramètres par défaut (agent indisponible)",
       "snapshots": {},
+      "status": "HIT_SL",
+      "close_price": 215.8,
+      "close_date": "2026-04-27",
+      "final_pnl": 0.0
+    },
+    {
+      "id": "GLD_LONG_2026-04-27",
+      "pipeline": "macro",
+      "actif": "GLD",
+      "direction": "LONG",
+      "conviction": "HIGH",
+      "sizing_pct": 10.0,
+      "entry_price": 433.25,
+      "entry_date": "2026-04-27T09:19:26.636536",
+      "stop_loss_pct": -4.0,
+      "take_profit_pct": 8.0,
+      "ratio_risk_reward": 2.0,
+      "horizon": "COURT",
+      "irm_source": "fallback",
+      "justification": "Paramètres par défaut (agent indisponible)",
+      "snapshots": {},
+      "status": "OPEN",
+      "close_price": null,
+      "close_date": null,
+      "final_pnl": null
+    },
+    {
+      "id": "GDX_LONG_2026-04-27",
+      "pipeline": "macro",
+      "actif": "GDX",
+      "direction": "LONG",
+      "conviction": "HIGH",
+      "sizing_pct": 10.0,
+      "entry_price": 94.34,
+      "entry_date": "2026-04-27T09:19:26.636536",
+      "stop_loss_pct": -4.0,
+      "take_profit_pct": 8.0,
+      "ratio_risk_reward": 2.0,
+      "horizon": "COURT",
+      "irm_source": "fallback",
+      "justification": "Paramètres par défaut (agent indisponible)",
+      "snapshots": {},
+      "status": "OPEN",
+      "close_price": null,
+      "close_date": null,
+      "final_pnl": null
+    },
+    {
+      "id": "SLV_LONG_2026-04-27",
+      "pipeline": "macro",
+      "actif": "SLV",
+      "direction": "LONG",
+      "conviction": "HIGH",
+      "sizing_pct": 10.0,
+      "entry_price": 68.79,
+      "entry_date": "2026-04-27T09:19:26.636536",
+      "stop_loss_pct": -4.0,
+      "take_profit_pct": 8.0,
+      "ratio_risk_reward": 2.0,
+      "horizon": "COURT",
+      "irm_source": "fallback",
+      "justification": "Paramètres par défaut (agent indisponible)",
+      "snapshots": {},
+      "status": "OPEN",
+      "close_price": null,
+      "close_date": null,
+      "final_pnl": null
+    },
+    {
+      "id": "SMH_LONG_2026-04-27",
+      "pipeline": "macro",
+      "actif": "SMH",
+      "direction": "LONG",
+      "conviction": "HIGH",
+      "sizing_pct": 10.0,
+      "entry_price": 506.44,
+      "entry_date": "2026-04-27T09:19:26.636536",
+      "stop_loss_pct": -4.0,
+      "take_profit_pct": 8.0,
+      "ratio_risk_reward": 2.0,
+      "horizon": "COURT",
+      "irm_source": "fallback",
+      "justification": "Paramètres par défaut (agent indisponible)",
+      "snapshots": {},
+      "status": "OPEN",
+      "close_price": null,
+      "close_date": null,
+      "final_pnl": null
+    },
+    {
+      "id": "XLE_LONG_2026-04-27",
+      "pipeline": "macro",
+      "actif": "XLE",
+      "direction": "LONG",
+      "conviction": "MEDIUM",
+      "sizing_pct": 5.0,
+      "entry_price": 56.87,
+      "entry_date": "2026-04-27T09:19:26.636536",
+      "stop_loss_pct": -4.0,
+      "take_profit_pct": 8.0,
+      "ratio_risk_reward": 2.0,
+      "horizon": "COURT",
+      "irm_source": "fallback",
+      "justification": "Paramètres par défaut (agent indisponible)",
+      "snapshots": {},
+      "status": "OPEN",
+      "close_price": null,
+      "close_date": null,
+      "final_pnl": null
+    },
+    {
+      "id": "RTX_LONG_2026-04-27",
+      "pipeline": "macro",
+      "actif": "RTX",
+      "direction": "LONG",
+      "conviction": "MEDIUM",
+      "sizing_pct": 5.0,
+      "entry_price": 174.26,
+      "entry_date": "2026-04-27T09:19:26.636536",
+      "stop_loss_pct": -4.0,
+      "take_profit_pct": 8.0,
+      "ratio_risk_reward": 2.0,
+      "horizon": "COURT",
+      "irm_source": "fallback",
+      "justification": "Paramètres par défaut (agent indisponible)",
+      "snapshots": {},
+      "status": "OPEN",
+      "close_price": null,
+      "close_date": null,
+      "final_pnl": null
+    },
+    {
+      "id": "ITA_LONG_2026-04-27",
+      "pipeline": "macro",
+      "actif": "ITA",
+      "direction": "LONG",
+      "conviction": "MEDIUM",
+      "sizing_pct": 5.0,
+      "entry_price": 215.8,
+      "entry_date": "2026-04-27T09:19:26.636536",
+      "stop_loss_pct": -4.0,
+      "take_profit_pct": 8.0,
+      "ratio_risk_reward": 2.0,
+      "horizon": "COURT",
+      "irm_source": "fallback",
+      "justification": "Paramètres par défaut (agent indisponible)",
+      "snapshots": {},
+      "status": "OPEN",
+      "close_price": null,
+      "close_date": null,
+      "final_pnl": null
+    },
+    {
+      "id": "BTC_SHORT_2026-04-27",
+      "pipeline": "macro",
+      "actif": "BTC",
+      "direction": "SHORT",
+      "conviction": "MEDIUM",
+      "sizing_pct": 5.0,
+      "entry_price": 77776.4,
+      "entry_date": "2026-04-27T09:19:26.636536",
+      "stop_loss_pct": 4.0,
+      "take_profit_pct": -8.0,
+      "ratio_risk_reward": 2.0,
+      "horizon": "COURT",
+      "irm_source": "fallback",
+      "justification": "Paramètres par défaut (agent indisponible)",
+      "snapshots": {},
       "status": "OPEN",
       "close_price": null,
       "close_date": null,
@@ -2218,34 +2603,34 @@
   ],
   "weekly_report_last": "2026-04-23",
   "stats": {
-    "total_closed": 23,
+    "total_closed": 25,
     "wins": 3,
-    "losses": 20,
-    "open": 70,
-    "hit_rate": 0.13,
-    "avg_pnl_pct": -1.92,
+    "losses": 22,
+    "open": 76,
+    "hit_rate": 0.12,
+    "avg_pnl_pct": -1.77,
     "by_conviction": {
       "MEDIUM": {
-        "total": 29,
-        "hits": 22,
-        "hit_rate": 75.9
+        "total": 48,
+        "hits": 37,
+        "hit_rate": 77.1
       },
       "HIGH": {
-        "total": 16,
-        "hits": 8,
-        "hit_rate": 50.0
+        "total": 29,
+        "hits": 11,
+        "hit_rate": 37.9
       },
       "LOW": {
-        "total": 2,
-        "hits": 1,
-        "hit_rate": 50.0
+        "total": 3,
+        "hits": 2,
+        "hit_rate": 66.7
       }
     },
     "by_narrative": {
       "MOYEN (1-3 mois)": {
-        "total": 27,
-        "hits": 15,
-        "hit_rate": 55.6
+        "total": 35,
+        "hits": 18,
+        "hit_rate": 51.4
       },
       "COURT (1-2 semaines)": {
         "total": 3,
@@ -2253,22 +2638,33 @@
         "hit_rate": 100.0
       },
       "COURT (1-2 sem)": {
-        "total": 15,
-        "hits": 12,
-        "hit_rate": 80.0
+        "total": 20,
+        "hits": 17,
+        "hit_rate": 85.0
       },
       "LONG (3+ mois)": {
-        "total": 1,
-        "hits": 1,
+        "total": 2,
+        "hits": 2,
         "hit_rate": 100.0
       },
       "LONG (3 mois+)": {
         "total": 1,
         "hits": 0,
         "hit_rate": 0.0
+      },
+      "COURT": {
+        "total": 19,
+        "hits": 10,
+        "hit_rate": 52.6
       }
     },
-    "by_rr_bucket": {},
+    "by_rr_bucket": {
+      "2-3": {
+        "total": 19,
+        "hits": 10,
+        "hit_rate": 52.6
+      }
+    },
     "avg_sizing_irm": 0.0
   }
 }
