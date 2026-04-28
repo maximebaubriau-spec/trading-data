@@ -1235,6 +1235,12 @@
           "price": 431.04,
           "pnl_pct": 2.56,
           "hit": true
+        },
+        "J7": {
+          "date": "2026-04-28",
+          "price": 429.89,
+          "pnl_pct": 2.84,
+          "hit": true
         }
       },
       "status": "OPEN",
@@ -1259,6 +1265,12 @@
           "date": "2026-04-24",
           "price": 56.98,
           "pnl_pct": 3.47,
+          "hit": true
+        },
+        "J7": {
+          "date": "2026-04-28",
+          "price": 56.77,
+          "pnl_pct": 3.09,
           "hit": true
         }
       },
@@ -1285,6 +1297,12 @@
           "price": 78361.2,
           "pnl_pct": 3.38,
           "hit": true
+        },
+        "J7": {
+          "date": "2026-04-28",
+          "price": 76862.1,
+          "pnl_pct": 1.4,
+          "hit": true
         }
       },
       "status": "OPEN",
@@ -1309,6 +1327,12 @@
           "date": "2026-04-24",
           "price": 86.55,
           "pnl_pct": 0.58,
+          "hit": true
+        },
+        "J7": {
+          "date": "2026-04-28",
+          "price": 86.28,
+          "pnl_pct": 0.89,
           "hit": true
         }
       },
@@ -1335,6 +1359,12 @@
           "price": 651.42,
           "pnl_pct": 0.72,
           "hit": true
+        },
+        "J7": {
+          "date": "2026-04-28",
+          "price": 664.23,
+          "pnl_pct": 2.7,
+          "hit": true
         }
       },
       "status": "OPEN",
@@ -1359,6 +1389,12 @@
           "date": "2026-04-24",
           "price": 219.11,
           "pnl_pct": -5.49,
+          "hit": false
+        },
+        "J7": {
+          "date": "2026-04-28",
+          "price": 216.04,
+          "pnl_pct": -6.82,
           "hit": false
         }
       },
@@ -1385,6 +1421,12 @@
           "date": "2026-04-24",
           "price": 83.72,
           "pnl_pct": 2.33,
+          "hit": true
+        },
+        "J7": {
+          "date": "2026-04-28",
+          "price": 84.17,
+          "pnl_pct": 2.88,
           "hit": true
         }
       },
@@ -2300,7 +2342,14 @@
       "horizon": "COURT",
       "irm_source": "fallback",
       "justification": "Paramètres par défaut (agent indisponible)",
-      "snapshots": {},
+      "snapshots": {
+        "J3": {
+          "date": "2026-04-28",
+          "price": 506.26,
+          "pnl_pct": -0.04,
+          "hit": false
+        }
+      },
       "status": "OPEN",
       "close_price": null,
       "close_date": null,
@@ -2321,7 +2370,14 @@
       "horizon": "COURT",
       "irm_source": "fallback",
       "justification": "Paramètres par défaut (agent indisponible)",
-      "snapshots": {},
+      "snapshots": {
+        "J3": {
+          "date": "2026-04-28",
+          "price": 715.17,
+          "pnl_pct": 0.17,
+          "hit": true
+        }
+      },
       "status": "OPEN",
       "close_price": null,
       "close_date": null,
@@ -2342,7 +2398,14 @@
       "horizon": "COURT",
       "irm_source": "fallback",
       "justification": "Paramètres par défaut (agent indisponible)",
-      "snapshots": {},
+      "snapshots": {
+        "J3": {
+          "date": "2026-04-28",
+          "price": 429.89,
+          "pnl_pct": -0.78,
+          "hit": false
+        }
+      },
       "status": "OPEN",
       "close_price": null,
       "close_date": null,
@@ -2384,7 +2447,14 @@
       "horizon": "COURT",
       "irm_source": "fallback",
       "justification": "Paramètres par défaut (agent indisponible)",
-      "snapshots": {},
+      "snapshots": {
+        "J3": {
+          "date": "2026-04-28",
+          "price": 76862.1,
+          "pnl_pct": -0.97,
+          "hit": false
+        }
+      },
       "status": "OPEN",
       "close_price": null,
       "close_date": null,
@@ -2405,7 +2475,14 @@
       "horizon": "COURT",
       "irm_source": "fallback",
       "justification": "Paramètres par défaut (agent indisponible)",
-      "snapshots": {},
+      "snapshots": {
+        "J3": {
+          "date": "2026-04-28",
+          "price": 664.23,
+          "pnl_pct": 0.05,
+          "hit": true
+        }
+      },
       "status": "OPEN",
       "close_price": null,
       "close_date": null,
@@ -2595,10 +2672,10 @@
       "irm_source": "fallback",
       "justification": "Paramètres par défaut (agent indisponible)",
       "snapshots": {},
-      "status": "OPEN",
-      "close_price": null,
-      "close_date": null,
-      "final_pnl": null
+      "status": "HIT_SL",
+      "close_price": 76862.1,
+      "close_date": "2026-04-28",
+      "final_pnl": 1.19
     },
     {
       "id": "ETH_SHORT_2026-04-27",
@@ -2616,10 +2693,10 @@
       "irm_source": "fallback",
       "justification": "Paramètres par défaut (agent indisponible)",
       "snapshots": {},
-      "status": "OPEN",
-      "close_price": null,
-      "close_date": null,
-      "final_pnl": null
+      "status": "HIT_SL",
+      "close_price": 2288.13,
+      "close_date": "2026-04-28",
+      "final_pnl": 1.23
     },
     {
       "id": "USO_LONG_2026-04-27",
@@ -2645,34 +2722,34 @@
   ],
   "weekly_report_last": "2026-04-23",
   "stats": {
-    "total_closed": 25,
-    "wins": 3,
+    "total_closed": 27,
+    "wins": 5,
     "losses": 22,
-    "open": 78,
-    "hit_rate": 0.12,
-    "avg_pnl_pct": -1.77,
+    "open": 76,
+    "hit_rate": 0.185,
+    "avg_pnl_pct": -1.55,
     "by_conviction": {
       "MEDIUM": {
-        "total": 48,
-        "hits": 37,
-        "hit_rate": 77.1
+        "total": 54,
+        "hits": 41,
+        "hit_rate": 75.9
       },
       "HIGH": {
-        "total": 29,
-        "hits": 11,
-        "hit_rate": 37.9
+        "total": 34,
+        "hits": 15,
+        "hit_rate": 44.1
       },
       "LOW": {
-        "total": 3,
+        "total": 4,
         "hits": 2,
-        "hit_rate": 66.7
+        "hit_rate": 50.0
       }
     },
     "by_narrative": {
       "MOYEN (1-3 mois)": {
-        "total": 35,
-        "hits": 18,
-        "hit_rate": 51.4
+        "total": 38,
+        "hits": 21,
+        "hit_rate": 55.3
       },
       "COURT (1-2 semaines)": {
         "total": 3,
@@ -2680,9 +2757,9 @@
         "hit_rate": 100.0
       },
       "COURT (1-2 sem)": {
-        "total": 20,
-        "hits": 17,
-        "hit_rate": 85.0
+        "total": 23,
+        "hits": 20,
+        "hit_rate": 87.0
       },
       "LONG (3+ mois)": {
         "total": 2,
@@ -2690,21 +2767,21 @@
         "hit_rate": 100.0
       },
       "LONG (3 mois+)": {
-        "total": 1,
+        "total": 2,
         "hits": 0,
         "hit_rate": 0.0
       },
       "COURT": {
-        "total": 19,
-        "hits": 10,
-        "hit_rate": 52.6
+        "total": 24,
+        "hits": 12,
+        "hit_rate": 50.0
       }
     },
     "by_rr_bucket": {
       "2-3": {
-        "total": 19,
-        "hits": 10,
-        "hit_rate": 52.6
+        "total": 24,
+        "hits": 12,
+        "hit_rate": 50.0
       }
     },
     "avg_sizing_irm": 0.0
